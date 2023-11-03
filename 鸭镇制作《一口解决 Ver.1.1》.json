@@ -1,9 +1,9 @@
 [
   {
     "id": "_meta",
-    "name": "\u4e00\u53e3\u89e3\u51b3v1.1",
-    "author": "Flyingludicolo",
-    "logo": ""
+    "name": "\u4e00\u53e3\u89e3\u51b3 Ver.1.1",
+    "author": "\u3010\u4f5c\u8005\u3011Flyingludicolo\u3001\u3010Json\u5236\u4f5c\u3011\u9e2d\u9547",
+    "logo": "https://i.postimg.cc/G3ghy9kM/image.png"
   },
   {
     "firstNightReminder": "\u7ed9\u4ed6\u5c55\u793a\u6570\u5b57\u624b\u52bf\u6765\u544a\u8bc9\u4ed6\u573a\u4e0a\u90bb\u5ea7\u90aa\u6076\u73a9\u5bb6\u6709\u591a\u5c11\u5bf9\u3002",
@@ -181,6 +181,19 @@
     "firstNight": 0,
     "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e24\u540d\u73a9\u5bb6\uff1a\u4ed6\u4eec\u6b7b\u4ea1\u3002\u4f60\u4e0a\u4e2a\u591c\u665a\u9009\u62e9\u8fc7\u4e14\u5f53\u524d\u6b7b\u4ea1\u7684\u73a9\u5bb6\u4e4b\u4e00\u53ef\u80fd\u4f1a\u88ab\u4f60\u53cd\u520d\u3002",
     "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/shabaloth.png"
+  },
+  {
+    "id": "_meta",
+    "image": "https://i.postimg.cc/GpLssMjP/image.png",
+    "edition": "custom",
+    "name": "\u9e2d\u9547\u5236\u4f5c",
+    "ability": "\u9e2d\u6728\u5e03\u62c9\u592b\u949f\u697c\u5c0f\u9547\u5236\u4f5cJson\u3002\u83b7\u5f97\u66f4\u591a\u5b98\u65b9\u6df7\u5408\u677f\u5b50\u6216\u8005\u81ea\u5236\u677f\u5b50\uff0c\u53ef\u5173\u6ce8B\u7ad9\u540c\u540d\u4e13\u680f\u3002",
+    "team": "fabled",
+    "firstNight": 0,
+    "otherNight": 0,
+    "reminders": [
+      "\u9e2d\u9547\u5236\u4f5c"
+    ]
   },
   {
     "firstNightReminder": "",
