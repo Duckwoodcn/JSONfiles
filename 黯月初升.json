@@ -1,0 +1,523 @@
+[
+  {
+    "id": "_meta",
+    "name": "\u9eef\u6708\u521d\u5347",
+    "author": "The Pandemonium Institute",
+    "logo": "https://i.postimg.cc/nL5Wtj1c/image.png"
+  },
+  {
+    "firstNightReminder": "\u6307\u5411\u5979\u7684\u5b59\u5b50\u73a9\u5bb6\uff0c\u5e76\u5c55\u793a\u8be5\u73a9\u5bb6\u7684\u89d2\u8272\u6807\u8bb0\u3002",
+    "otherNightReminder": "\u5982\u679c\u5b59\u5b50\u88ab\u6076\u9b54\u6740\u6b7b\uff0c\u7956\u6bcd\u4e5f\u4f1a\u4e00\u540c\u6b7b\u4ea1\u3002\u6807\u8bb0\u7956\u6bcd\u6b7b\u4ea1\u3002",
+    "name": "\u7956\u6bcd",
+    "otherNight": 50,
+    "setup": false,
+    "reminders": [
+      "\u5b59\u5b50",
+      "\u6b7b\u4ea1"
+    ],
+    "id": "grandmotherbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Grandmother",
+    "firstNight": 39,
+    "ability": "\u5728\u4f60\u7684\u9996\u4e2a\u591c\u665a\uff0c\u4f60\u4f1a\u5f97\u77e5\u4e00\u540d\u5584\u826f\u73a9\u5bb6\u548c\u4ed6\u7684\u89d2\u8272\u3002\u5982\u679c\u6076\u9b54\u6740\u6b7b\u4e86\u4ed6\uff0c\u4f60\u4e5f\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/grandmother.png"
+  },
+  {
+    "firstNightReminder": "\u8ba9\u6c34\u624b\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u6216\u6c34\u624b\u9189\u9152\u3002",
+    "otherNightReminder": "\u8ba9\u6c34\u624b\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u6216\u6c34\u624b\u9189\u9152\u3002",
+    "name": "\u6c34\u624b",
+    "otherNight": 4,
+    "setup": false,
+    "reminders": [
+      "\u9189\u9152"
+    ],
+    "id": "sailorbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Sailor",
+    "firstNight": 10,
+    "ability": "\u6bcf\u4e2a\u591c\u665a\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u7684\u73a9\u5bb6\uff1a\u4f60\u6216\u4ed6\u4e4b\u4e00\u4f1a\u9189\u9152\u76f4\u5230\u4e0b\u4e2a\u9ec4\u660f\u3002\u4f60\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/sailor.png"
+  },
+  {
+    "firstNightReminder": "\u8ba9\u4f8d\u5973\u9009\u62e9\u9664\u81ea\u5df1\u5916\u7684\u4e24\u540d\u5b58\u6d3b\u73a9\u5bb6\u3002\u7ed9\u5979\u5c55\u793a\u6570\u5b57\u624b\u52bf\u6765\u544a\u8bc9\u5979\u8fd9\u4e9b\u73a9\u5bb6\u4e2d\u6709\u51e0\u4eba\u56e0\u81ea\u8eab\u80fd\u529b\u88ab\u5524\u9192\u3002",
+    "otherNightReminder": "\u8ba9\u4f8d\u5973\u9009\u62e9\u9664\u81ea\u5df1\u5916\u7684\u4e24\u540d\u5b58\u6d3b\u73a9\u5bb6\u3002\u7ed9\u5979\u5c55\u793a\u6570\u5b57\u624b\u52bf\u6765\u544a\u8bc9\u5979\u8fd9\u4e9b\u73a9\u5bb6\u4e2d\u6709\u51e0\u4eba\u56e0\u81ea\u8eab\u80fd\u529b\u88ab\u5524\u9192\u3002",
+    "name": "\u4f8d\u5973",
+    "otherNight": 70,
+    "setup": false,
+    "reminders": [],
+    "id": "chambermaidbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Chambermaid",
+    "firstNight": 50,
+    "ability": "\u6bcf\u4e2a\u591c\u665a\uff0c\u4f60\u8981\u9009\u62e9\u9664\u4f60\u4ee5\u5916\u7684\u4e24\u540d\u5b58\u6d3b\u7684\u73a9\u5bb6\uff1a\u4f60\u4f1a\u5f97\u77e5\u4ed6\u4eec\u4e2d\u6709\u51e0\u4eba\u5728\u5f53\u665a\u56e0\u5176\u81ea\u8eab\u80fd\u529b\u800c\u88ab\u5524\u9192\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/chambermaid.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u8ba9\u9a71\u9b54\u4eba\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff0c\u4e0d\u80fd\u662f\u4e0a\u4e00\u591c\u4ed6\u9009\u62e9\u8fc7\u7684\u73a9\u5bb6\u3002\u8ba9\u9a71\u9b54\u4eba\u91cd\u65b0\u5165\u7761\u3002\u5982\u679c\u9a71\u9b54\u4eba\u9009\u4e2d\u4e86\u6076\u9b54\uff1a\u5524\u9192\u6076\u9b54\u3002\u5c55\u793a\u201c\u8be5\u89d2\u8272\u7684\u80fd\u529b\u5bf9\u4f60\u751f\u6548\u201d\u4fe1\u606f\u6807\u8bb0\u548c\u9a71\u9b54\u4eba\u89d2\u8272\u6807\u8bb0\u3002\u6307\u5411\u9a71\u9b54\u4eba\u73a9\u5bb6\u3002",
+    "name": "\u9a71\u9b54\u4eba",
+    "otherNight": 22,
+    "setup": false,
+    "reminders": [
+      "\u88ab\u9009\u62e9"
+    ],
+    "id": "exorcistbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Exorcist",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff08\u4e0e\u4e0a\u4e2a\u591c\u665a\u4e0d\u540c\uff09\uff1a\u5982\u679c\u4f60\u9009\u4e2d\u4e86\u6076\u9b54\uff0c\u4ed6\u4f1a\u5f97\u77e5\u4f60\u662f\u9a71\u9b54\u4eba\uff0c\u4f46\u4ed6\u5f53\u665a\u4e0d\u4f1a\u56e0\u5176\u81ea\u8eab\u80fd\u529b\u800c\u88ab\u5524\u9192\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/exorcist.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u8ba9\u65c5\u5e97\u8001\u677f\u9009\u62e9\u4e24\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u8fd9\u4e24\u540d\u73a9\u5bb6\u4e0d\u4f1a\u6b7b\u4ea1\uff0c\u5e76\u6807\u8bb0\u5176\u4e2d\u4e00\u4eba\u9189\u9152\u3002",
+    "name": "\u65c5\u5e97\u8001\u677f",
+    "otherNight": 9,
+    "setup": false,
+    "reminders": [
+      "\u4e0d\u4f1a\u6b7b\u4ea1",
+      "\u9189\u9152"
+    ],
+    "id": "innkeeperbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Innkeeper",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e24\u540d\u73a9\u5bb6\uff1a\u4ed6\u4eec\u5f53\u665a\u4e0d\u4f1a\u6b7b\u4ea1\uff0c\u4f46\u5176\u4e2d\u4e00\u4eba\u4f1a\u9189\u9152\u5230\u4e0b\u4e2a\u9ec4\u660f\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/innkeeper.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u8ba9\u8d4c\u5f92\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\u548c\u4e00\u4e2a\u89d2\u8272\u3002\u5982\u679c\u8d4c\u5f92\u731c\u9519\u4e86\uff0c\u6807\u8bb0\u8d4c\u5f92\u6b7b\u4ea1\u3002",
+    "name": "\u8d4c\u5f92",
+    "otherNight": 11,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1"
+    ],
+    "id": "gamblerbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Gambler",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\u5e76\u731c\u6d4b\u4ed6\u7684\u89d2\u8272\uff1a\u5982\u679c\u4f60\u731c\u9519\u4e86\uff0c\u4f60\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/gambler.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u5982\u679c\u767d\u5929\u7684\u58f0\u660e\u4e3a\u771f\uff0c\u4f1a\u6709\u4e00\u540d\u73a9\u5bb6\u6b7b\u4ea1\uff0c\u5e76\u7531\u8bf4\u4e66\u4eba\u6765\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff0c\u6807\u8bb0\u8be5\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "name": "\u9020\u8c23\u8005",
+    "otherNight": 47,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1"
+    ],
+    "id": "gossipbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Gossip",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u767d\u5929\uff0c\u4f60\u53ef\u4ee5\u516c\u5f00\u53d1\u8868\u4e00\u4e2a\u58f0\u660e\u3002\u5982\u679c\u8be5\u58f0\u660e\u6b63\u786e\uff0c\u5728\u5f53\u665a\u4f1a\u6709\u4e00\u540d\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/gossip.png"
+  },
+  {
+    "firstNightReminder": "\u4f8d\u81e3\u53ef\u4ee5\u9009\u62e9\u4e00\u4e2a\u89d2\u8272\u3002\u5982\u679c\u4ed6\u8fd9\u4e48\u505a\u4e86\uff0c\u6807\u8bb0\u4f8d\u81e3\u5931\u53bb\u80fd\u529b\uff0c\u6807\u8bb0\u88ab\u9009\u62e9\u7684\u89d2\u8272\u6240\u5bf9\u5e94\u7684\u73a9\u5bb6\u9189\u9152\u3002\u4e4b\u540e\u7684\u591c\u665a\u65e0\u9700\u518d\u5524\u9192\u4f8d\u81e3\u3002",
+    "otherNightReminder": "\u4f8d\u81e3\u53ef\u4ee5\u9009\u62e9\u4e00\u4e2a\u89d2\u8272\u3002\u5982\u679c\u4ed6\u8fd9\u4e48\u505a\u4e86\uff0c\u6807\u8bb0\u4f8d\u81e3\u5931\u53bb\u80fd\u529b\uff0c\u6807\u8bb0\u88ab\u9009\u62e9\u7684\u89d2\u8272\u6240\u5bf9\u5e94\u7684\u73a9\u5bb6\u9189\u9152\u3002\u4e4b\u540e\u7684\u591c\u665a\u65e0\u9700\u518d\u5524\u9192\u4f8d\u81e3\u3002",
+    "name": "\u4f8d\u81e3",
+    "otherNight": 10,
+    "setup": false,
+    "reminders": [
+      "\u9189\u91521",
+      "\u9189\u91522",
+      "\u9189\u91523",
+      "\u5931\u53bb\u80fd\u529b"
+    ],
+    "id": "courtierbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Courtier",
+    "firstNight": 19,
+    "ability": "\u6bcf\u5c40\u6e38\u620f\u9650\u4e00\u6b21\uff0c\u5728\u591c\u665a\u65f6\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u4e00\u4e2a\u89d2\u8272\uff1a\u5982\u679c\u8be5\u89d2\u8272\u5728\u573a\uff0c\u8be5\u89d2\u8272\u4e4b\u4e00\u4ece\u5f53\u665a\u5f00\u59cb\u9189\u9152\u4e09\u5929\u4e09\u591c\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/courtier.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u6559\u6388\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u6b7b\u4ea1\u73a9\u5bb6\u3002\u5982\u679c\u4ed6\u8fd9\u4e48\u505a\u4e86\uff0c\u6807\u8bb0\u6559\u6388\u5931\u53bb\u80fd\u529b\uff0c\u7136\u540e\u5982\u679c\u90a3\u540d\u73a9\u5bb6\u662f\u9547\u6c11\uff0c\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u88ab\u590d\u6d3b\u3002\u4e4b\u540e\u7684\u591c\u665a\u65e0\u9700\u518d\u5524\u9192\u6559\u6388\u3002",
+    "name": "\u6559\u6388",
+    "otherNight": 45,
+    "setup": false,
+    "reminders": [
+      "\u590d\u6d3b",
+      "\u5931\u53bb\u80fd\u529b"
+    ],
+    "id": "professorbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Professor",
+    "firstNight": 0,
+    "ability": "\u6bcf\u5c40\u6e38\u620f\u9650\u4e00\u6b21\uff0c\u5728\u591c\u665a\u65f6*\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u6b7b\u4ea1\u7684\u73a9\u5bb6\uff1a\u5982\u679c\u4ed6\u662f\u9547\u6c11\uff0c\u4f60\u4f1a\u5c06\u4ed6\u8d77\u6b7b\u56de\u751f\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/professor.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u541f\u6e38\u8bd7\u4eba",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [
+      "\u5168\u5458\u9189\u9152"
+    ],
+    "id": "minstrelbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Minstrel",
+    "firstNight": 0,
+    "ability": "\u5f53\u4e00\u540d\u722a\u7259\u6b7b\u4e8e\u5904\u51b3\u65f6\uff0c\u9664\u4e86\u4f60\u548c\u65c5\u884c\u8005\u4ee5\u5916\u7684\u6240\u6709\u5176\u4ed6\u73a9\u5bb6\u9189\u9152\u76f4\u5230\u660e\u5929\u9ec4\u660f\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/minstrel.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u8336\u827a\u5e08",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [
+      "\u4e0d\u4f1a\u6b7b\u4ea1"
+    ],
+    "id": "tea_ladybutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Tea Lady",
+    "firstNight": 0,
+    "ability": "\u5982\u679c\u4e0e\u4f60\u90bb\u8fd1\u7684\u4e24\u540d\u5b58\u6d3b\u7684\u73a9\u5bb6\u662f\u5584\u826f\u7684\uff0c\u4ed6\u4eec\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/tea_lady.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u548c\u5e73\u4e3b\u4e49\u8005",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [],
+    "id": "pacifistbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Pacifist",
+    "firstNight": 0,
+    "ability": "\u88ab\u5904\u51b3\u7684\u5584\u826f\u73a9\u5bb6\u53ef\u80fd\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/pacifist.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u5f04\u81e3",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [
+      "\u5931\u53bb\u80fd\u529b"
+    ],
+    "id": "foolbutton",
+    "edition": "custom",
+    "team": "townsfolk",
+    "name_eng": "Fool",
+    "firstNight": 0,
+    "ability": "\u5f53\u4f60\u9996\u6b21\u5c06\u8981\u6b7b\u4ea1\u65f6\uff0c\u4f60\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/fool.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u4fee\u8865\u5320\u53ef\u80fd\u4f1a\u6b7b\u4ea1\u3002\u5982\u679c\u8bf4\u4e66\u4eba\u9009\u62e9\u8ba9\u4fee\u8865\u5320\u6b7b\u4ea1\uff0c\u653e\u7f6e\u6b7b\u4ea1\u6807\u8bb0\u3002",
+    "name": "\u4fee\u8865\u5320",
+    "otherNight": 48,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1"
+    ],
+    "id": "tinkerbutton",
+    "edition": "custom",
+    "team": "outsider",
+    "name_eng": "Tinker",
+    "firstNight": 0,
+    "ability": "\u4f60\u968f\u65f6\u53ef\u80fd\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/tinker.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u5982\u679c\u6708\u4e4b\u5b50\u5728\u767d\u5929\u89e6\u53d1\u4e86\u6b7b\u4ea1\u80fd\u529b\u5e76\u9009\u62e9\u4e86\u4e00\u540d\u5584\u826f\u73a9\u5bb6\uff0c\u8be5\u73a9\u5bb6\u6b7b\u4ea1\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "name": "\u6708\u4e4b\u5b50",
+    "otherNight": 49,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1"
+    ],
+    "id": "moonchildbutton",
+    "edition": "custom",
+    "team": "outsider",
+    "name_eng": "Moonchild",
+    "firstNight": 0,
+    "ability": "\u5f53\u4f60\u5f97\u77e5\u4f60\u6b7b\u4ea1\u65f6\uff0c\u4f60\u8981\u516c\u5f00\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u7684\u73a9\u5bb6\u3002\u5982\u679c\u4ed6\u662f\u5584\u826f\u7684\uff0c\u5728\u5f53\u665a\u4ed6\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/moonchild.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u83bd\u592b",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [
+      "\u9189\u9152"
+    ],
+    "id": "goonbutton",
+    "edition": "custom",
+    "team": "outsider",
+    "name_eng": "Goon",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u591c\u665a\uff0c\u9996\u4e2a\u4f7f\u7528\u5176\u81ea\u8eab\u80fd\u529b\u9009\u62e9\u4e86\u4f60\u7684\u73a9\u5bb6\u4f1a\u9189\u9152\u76f4\u5230\u4e0b\u4e2a\u9ec4\u660f\u3002\u4f60\u4f1a\u8f6c\u53d8\u4e3a\u4ed6\u7684\u9635\u8425\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/goon.png"
+  },
+  {
+    "firstNightReminder": "\u5982\u679c\u6709\u4e03\u540d\u6216\u66f4\u591a\u73a9\u5bb6\uff0c\u5524\u9192\u75af\u5b50\uff1a\u5c55\u793a\u201c\u4ed6\u4eec\u662f\u4f60\u7684\u722a\u7259\u201d\u4fe1\u606f\u6807\u8bb0\u3002\u6307\u5411\u4efb\u610f\u5bf9\u5e94\u6570\u91cf\u7684\u73a9\u5bb6\u3002\u5c55\u793a\u201c\u8fd9\u4e9b\u89d2\u8272\u4e0d\u5728\u573a\u201d\u4fe1\u606f\u6807\u8bb0\u3002\u5c55\u793a\u4e09\u4e2a\u5584\u826f\u89d2\u8272\u3002\u8ba9\u75af\u5b50\u91cd\u65b0\u5165\u7761\u3002\u5524\u9192\u6076\u9b54\u3002\u5c55\u793a\u201c\u4f60\u662f\u201d\u4fe1\u606f\u6807\u8bb0\u548c\u6076\u9b54\u89d2\u8272\u6807\u8bb0\u3002\u5c55\u793a\u201c\u8fd9\u540d\u73a9\u5bb6\u662f\u201d\u4fe1\u606f\u6807\u8bb0\u548c\u75af\u5b50\u89d2\u8272\u6807\u8bb0\uff0c\u7136\u540e\u6307\u5411\u75af\u5b50\u73a9\u5bb6\u3002",
+    "otherNightReminder": "\u505a\u4efb\u4f55\u9700\u8981\u505a\u7684\u4e8b\u60c5\u6765\u6a21\u62df\u4e00\u4f4d\u6076\u9b54\u7684\u884c\u52a8\u3002\u8ba9\u75af\u5b50\u91cd\u65b0\u5165\u7761\u3002\u5524\u9192\u6076\u9b54\u3002\u5bf9\u6076\u9b54\u5c55\u793a\u75af\u5b50\u89d2\u8272\u6807\u8bb0\uff0c\u5e76\u6307\u5411\u75af\u5b50\u73a9\u5bb6\uff0c\u968f\u540e\u662f\u75af\u5b50\u7684\u653b\u51fb\u76ee\u6807\u3002",
+    "name": "\u75af\u5b50",
+    "otherNight": 21,
+    "setup": false,
+    "reminders": [],
+    "id": "lunaticbutton",
+    "edition": "custom",
+    "remindersGlobal": [
+      "\u662f\u75af\u5b50",
+      "\u88ab\u9009\u62e9"
+    ],
+    "team": "outsider",
+    "name_eng": "Lunatic",
+    "firstNight": 7,
+    "ability": "\u4f60\u4ee5\u4e3a\u4f60\u662f\u4e00\u4e2a\u6076\u9b54\uff0c\u4f46\u5176\u5b9e\u4f60\u4e0d\u662f\u3002\u6076\u9b54\u77e5\u9053\u4f60\u662f\u75af\u5b50\u4ee5\u53ca\u4f60\u5728\u6bcf\u4e2a\u591c\u665a\u9009\u62e9\u4e86\u54ea\u4e9b\u73a9\u5bb6\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/lunatic.png"
+  },
+  {
+    "firstNightReminder": "\u5bf9\u4ed6\u5c55\u793a\u6240\u6709\u5728\u573a\u7684\u5916\u6765\u8005\u6807\u8bb0\u3002",
+    "otherNightReminder": "\u5982\u679c\u6709\u5916\u6765\u8005\u5728\u4eca\u5929\u767d\u5929\u6b7b\u4ea1\uff0c\u8ba9\u6559\u7236\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "name": "\u6559\u7236",
+    "otherNight": 38,
+    "setup": true,
+    "reminders": [
+      "\u6b7b\u4e8e\u4eca\u65e5",
+      "\u6b7b\u4ea1"
+    ],
+    "id": "godfatherbutton",
+    "edition": "custom",
+    "team": "minion",
+    "name_eng": "Godfather",
+    "firstNight": 21,
+    "ability": "\u5728\u4f60\u7684\u9996\u4e2a\u591c\u665a\uff0c\u4f60\u4f1a\u5f97\u77e5\u6709\u54ea\u4e9b\u5916\u6765\u8005\u89d2\u8272\u5728\u573a\u3002\u5982\u679c\u6709\u5916\u6765\u8005\u5728\u767d\u5929\u6b7b\u4ea1\uff0c\u4f60\u4f1a\u5728\u5f53\u665a\u88ab\u5524\u9192\u5e76\u4e14\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u6b7b\u4ea1\u3002[-1\u6216+1\u5916\u6765\u8005]",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/godfather.png"
+  },
+  {
+    "firstNightReminder": "\u8ba9\u9b54\u9b3c\u4ee3\u8a00\u4eba\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u5904\u51b3\u4e0d\u6b7b\u3002",
+    "otherNightReminder": "\u8ba9\u9b54\u9b3c\u4ee3\u8a00\u4eba\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\uff0c\u4e0d\u80fd\u662f\u4e0a\u4e00\u591c\u4ed6\u9009\u62e9\u8fc7\u7684\u73a9\u5bb6\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u5904\u51b3\u4e0d\u6b7b\u3002",
+    "name": "\u9b54\u9b3c\u4ee3\u8a00\u4eba",
+    "otherNight": 14,
+    "setup": false,
+    "reminders": [
+      "\u5904\u51b3\u4e0d\u6b7b"
+    ],
+    "id": "devils_advocatebutton",
+    "edition": "custom",
+    "team": "minion",
+    "name_eng": "Devil\u0027s Advocate",
+    "firstNight": 22,
+    "ability": "\u6bcf\u4e2a\u591c\u665a\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u7684\u73a9\u5bb6\uff08\u4e0e\u4e0a\u4e2a\u591c\u665a\u4e0d\u540c\uff09\uff1a\u5982\u679c\u660e\u5929\u767d\u5929\u4ed6\u88ab\u5904\u51b3\uff0c\u4ed6\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/devils_advocate.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u523a\u5ba2\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\u3002\u5982\u679c\u4ed6\u8fd9\u4e48\u505a\u4e86\uff0c\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u6b7b\u4ea1\uff0c\u4e14\u523a\u5ba2\u5931\u53bb\u80fd\u529b\uff0c\u4e4b\u540e\u7684\u591c\u665a\u65e0\u9700\u518d\u5524\u9192\u523a\u5ba2\u3002",
+    "name": "\u523a\u5ba2",
+    "otherNight": 37,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1",
+      "\u5931\u53bb\u80fd\u529b"
+    ],
+    "id": "assassinbutton",
+    "edition": "custom",
+    "team": "minion",
+    "name_eng": "Assassin",
+    "firstNight": 0,
+    "ability": "\u6bcf\u5c40\u6e38\u620f\u9650\u4e00\u6b21\uff0c\u5728\u591c\u665a\u65f6*\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u6b7b\u4ea1\uff0c\u5373\u4f7f\u56e0\u4e3a\u4efb\u4f55\u539f\u56e0\u8ba9\u4ed6\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/assassin.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u4e3b\u8c0b",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [],
+    "id": "mastermindbutton",
+    "edition": "custom",
+    "team": "minion",
+    "name_eng": "Mastermind",
+    "firstNight": 0,
+    "ability": "\u5982\u679c\u6076\u9b54\u56e0\u4e3a\u6b7b\u4e8e\u5904\u51b3\u800c\u56e0\u6b64\u5bfc\u81f4\u6e38\u620f\u7ed3\u675f\u65f6\uff0c\u518d\u989d\u5916\u8fdb\u884c\u4e00\u4e2a\u591c\u665a\u548c\u4e00\u4e2a\u767d\u5929\u3002\u5728\u90a3\u4e2a\u767d\u5929\u5982\u679c\u6709\u73a9\u5bb6\u88ab\u5904\u51b3\uff0c\u4ed6\u7684\u9635\u8425\u843d\u8d25\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/mastermind.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u5982\u679c\u4eca\u5929\u767d\u5929\u6ca1\u6709\u4eba\u6b7b\u4ea1\uff0c\u8ba9\u50f5\u6016\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "name": "\u50f5\u6016",
+    "otherNight": 25,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1",
+      "\u6b7b\u4e8e\u4eca\u65e5"
+    ],
+    "id": "zombuulbutton",
+    "edition": "custom",
+    "team": "demon",
+    "name_eng": "Zombuul",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u5982\u679c\u4eca\u5929\u767d\u5929\u6ca1\u6709\u2f08\u6b7b\u4ea1\uff0c\u4f60\u4f1a\u88ab\u5524\u9192\u5e76\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u6b7b\u4ea1\u3002\u5f53\u4f60\u9996\u6b21\u6b7b\u4ea1\u540e\uff0c\u4f60\u4ecd\u5b58\u6d3b\uff0c\u4f46\u4f1a\u88ab\u5f53\u4f5c\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/zombuul.png"
+  },
+  {
+    "firstNightReminder": "\u8ba9\u666e\u5361\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u4e2d\u6bd2\u3002",
+    "otherNightReminder": "\u8ba9\u666e\u5361\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u4e2d\u6bd2\u3002\u4e0a\u4e00\u4e2a\u56e0\u666e\u5361\u4e2d\u6bd2\u7684\u73a9\u5bb6\u6b7b\u4ea1\uff0c\u968f\u540e\u6062\u590d\u5065\u5eb7\u3002",
+    "name": "\u666e\u5361",
+    "otherNight": 26,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1",
+      "\u4e2d\u6bd2"
+    ],
+    "id": "pukkabutton",
+    "edition": "custom",
+    "team": "demon",
+    "name_eng": "Pukka",
+    "firstNight": 28,
+    "ability": "\u6bcf\u4e2a\u591c\u665a\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u4e2d\u6bd2\u3002\u4e0a\u4e2a\u56e0\u4f60\u7684\u80fd\u529b\u4e2d\u6bd2\u7684\u73a9\u5bb6\u4f1a\u6b7b\u4ea1\u5e76\u6062\u590d\u5065\u5eb7\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/pukka.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u4e0a\u4e00\u591c\u88ab\u6c99\u5df4\u6d1b\u65af\u9009\u62e9\u4e14\u5f53\u524d\u5df2\u6b7b\u4ea1\u7684\u73a9\u5bb6\u4e4b\u4e00\u53ef\u80fd\u88ab\u53cd\u520d\uff0c\u5982\u679c\u88ab\u53cd\u520d\uff0c\u6807\u8bb0\u90a3\u540d\u73a9\u5bb6\u88ab\u590d\u6d3b\u3002\u8ba9\u6c99\u5df4\u6d1b\u65af\u9009\u62e9\u4e24\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u8fd9\u4e24\u540d\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "name": "\u6c99\u5df4\u6d1b\u65af",
+    "otherNight": 27,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1",
+      "\u590d\u6d3b"
+    ],
+    "id": "shabalothbutton",
+    "edition": "custom",
+    "team": "demon",
+    "name_eng": "Shabaloth",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e24\u540d\u73a9\u5bb6\uff1a\u4ed6\u4eec\u6b7b\u4ea1\u3002\u4f60\u4e0a\u4e2a\u591c\u665a\u9009\u62e9\u8fc7\u4e14\u5f53\u524d\u6b7b\u4ea1\u7684\u73a9\u5bb6\u4e4b\u4e00\u53ef\u80fd\u4f1a\u88ab\u4f60\u53cd\u520d\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/shabaloth.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "\u73c0\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1b\u6216\u5982\u679c\u4e0a\u4e00\u6b21\u4ed6\u88ab\u5524\u9192\u65f6\u672a\u505a\u9009\u62e9\uff0c\u8ba9\u4ed6\u9009\u62e9\u4e09\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u8fd9\u4e9b\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "name": "\u73c0",
+    "otherNight": 28,
+    "setup": false,
+    "reminders": [
+      "\u6b7b\u4ea1",
+      "\u653b\u51fb\u4e09\u6b21"
+    ],
+    "id": "pobutton",
+    "edition": "custom",
+    "team": "demon",
+    "name_eng": "Po",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u6b7b\u4ea1\u3002\u5982\u679c\u4f60\u4e0a\u6b21\u9009\u62e9\u65f6\u6ca1\u6709\u9009\u62e9\u4efb\u4f55\u73a9\u5bb6\uff0c\u5f53\u665a\u4f60\u8981\u9009\u62e9\u4e09\u540d\u73a9\u5bb6\uff1a\u4ed6\u4eec\u6b7b\u4ea1\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/po.png"
+  },
+  {
+    "firstNightReminder": "\u5bf9\u5b66\u5f92\u5c55\u793a\u4e00\u4e2a\u9547\u6c11\u6216\u722a\u7259\u6807\u8bb0\u3002\u5728\u9b54\u5178\u4e2d\uff0c\u7528\u90a3\u4e2a\u89d2\u8272\u6807\u8bb0\u4ee3\u66ff\u5b66\u5f92\u6807\u8bb0\uff0c\u5e76\u5728\u4e00\u65c1\u6807\u8bc6\u8be5\u73a9\u5bb6\u662f\u5b66\u5f92\u3002",
+    "otherNightReminder": "",
+    "name": "\u5b66\u5f92",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [
+      "\u662f\u5b66\u5f92"
+    ],
+    "id": "apprenticebutton",
+    "edition": "custom",
+    "team": "traveler",
+    "name_eng": "Apprentice",
+    "firstNight": 1,
+    "ability": "\u5728\u4f60\u7684\u9996\u4e2a\u591c\u665a\uff0c\u5982\u679c\u4f60\u662f\u5584\u826f\u7684\uff0c\u4f60\u4f1a\u83b7\u5f97\u4e00\u4e2a\u9547\u6c11\u89d2\u8272\u7684\u80fd\u529b\uff1b\u5982\u679c\u4f60\u662f\u90aa\u6076\u7684\uff0c\u4f60\u4f1a\u83b7\u5f97\u4e00\u4e2a\u722a\u7259\u89d2\u8272\u7684\u80fd\u529b\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/apprentice.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u5973\u820d\u76d1",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [],
+    "id": "matronbutton",
+    "edition": "custom",
+    "team": "traveler",
+    "name_eng": "Matron",
+    "firstNight": 0,
+    "ability": "\u6bcf\u4e2a\u767d\u5929\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u81f3\u591a\u4e09\u5bf9\u73a9\u5bb6\u4ea4\u6362\u5ea7\u4f4d\u3002\u73a9\u5bb6\u4e0d\u80fd\u79bb\u5f00\u5ea7\u4f4d\u79c1\u804a\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/matron.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u6cd5\u5b98",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [
+      "\u5931\u53bb\u80fd\u529b"
+    ],
+    "id": "judgebutton",
+    "edition": "custom",
+    "team": "traveler",
+    "name_eng": "Judge",
+    "firstNight": 0,
+    "ability": "\u6bcf\u5c40\u6e38\u620f\u9650\u4e00\u6b21\uff0c\u5982\u679c\u5176\u4ed6\u73a9\u5bb6\u53d1\u8d77\u4e86\u63d0\u540d\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u8ba9\u672c\u6b21\u63d0\u540d\u76f4\u63a5\u6267\u884c\u5904\u51b3\u6216\u8ba9\u6295\u7968\u65e0\u6548\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/judge.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u5deb\u6bd2\u5e08",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [],
+    "id": "voudonbutton",
+    "edition": "custom",
+    "team": "traveler",
+    "name_eng": "Voudon",
+    "firstNight": 0,
+    "ability": "\u53ea\u6709\u4f60\u548c\u6b7b\u4ea1\u7684\u73a9\u5bb6\u53ef\u4ee5\u6295\u7968\uff0c\u4e14\u6295\u7968\u4e0d\u9700\u8981\u4f7f\u7528\u6295\u7968\u6807\u8bb0\u3002\u5ffd\u7565\u7968\u6570\u9700\u8981\u8fc7\u534a\u7684\u8981\u6c42\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/voudon.png"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u4e3b\u6559",
+    "otherNight": 0,
+    "setup": false,
+    "reminders": [
+      "\u63d0\u540d\u5584\u826f\u65b9",
+      "\u63d0\u540d\u90aa\u6076\u65b9"
+    ],
+    "id": "bishopbutton",
+    "edition": "custom",
+    "team": "traveler",
+    "name_eng": "Bishop",
+    "firstNight": 0,
+    "ability": "\u53ea\u6709\u8bf4\u4e66\u4eba\u53ef\u4ee5\u53d1\u8d77\u63d0\u540d\u3002\u6bcf\u4e2a\u767d\u5929\u8bf4\u4e66\u4eba\u81f3\u5c11\u8981\u63d0\u540d\u4e00\u540d\u4f60\u5bf9\u7acb\u9635\u8425\u7684\u73a9\u5bb6\u3002",
+    "image": "https://oss.gstonegames.com/data_file/clocktower/web/icons/bishop.png"
+  }
+]
