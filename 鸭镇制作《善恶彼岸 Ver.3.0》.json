@@ -1,0 +1,469 @@
+[
+  {
+    "id": "_meta",
+    "name": "\u5584\u6076\u5f7c\u5cb8 Ver.3.0",
+    "author": "\u3010\u4f5c\u8005\u3011Wedge McCloud\u3001\u3010Json\u5236\u4f5c\u3011\u9e2d\u9547",
+    "logo": "https://i.postimg.cc/Y2FCWVsq/image.png",
+    "almanac": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/almanac.html",
+    "townsfolkName": "\u9547\u6c11"
+  },
+  {
+    "id": "clone_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/clone_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u6307\u5411\u4e00\u540d\u73a9\u5bb6\uff0c\u5e76\u5411\u514b\u9686\u4eba\u5c55\u793a\u8be5\u73a9\u5bb6\u7684\u89d2\u8272\u6807\u8bb0\u3002\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u539f\u751f\u201d\u3002",
+    "reminders": [
+      "\u539f\u751f"
+    ],
+    "name": "\u514b\u9686\u4eba",
+    "team": "townsfolk",
+    "ability": "\u5728\u4f60\u7684\u9996\u4e2a\u591c\u665a\uff0c\u4f60\u4f1a\u5f97\u77e5\u4e00\u540d\u9547\u6c11\u548c\u4ed6\u7684\u89d2\u8272\u3002\u5982\u679c\u4ed6\u5c06\u8981\u6b7b\u4ea1\uff0c\u6539\u4e3a\u4f60\u6b7b\u4ea1\u3002",
+    "flavor": "I\u0027m not expendable! I\u0027m my own person... right?",
+    "firstNight": 14
+  },
+  {
+    "id": "contessa_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/contessa_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u5411\u5973\u4f2f\u7235\u5c55\u793a\u81f3\u5c11\u4e00\u4e2a\u5728\u573a\u7684\u5916\u6765\u8005\u89d2\u8272\u6807\u8bb0\uff0c\u6216\u8868\u793a\u6ca1\u6709\u5916\u6765\u8005\u3002",
+    "otherNightReminder": "\u5982\u679c\u6709\u5916\u6765\u8005\u6b7b\u4ea1\uff0c\u5411\u5973\u4f2f\u7235\u5c55\u793a\u5b58\u6d3b\u7684\u5916\u6765\u8005\u73a9\u5bb6\u7684\u6570\u91cf\u7684\u624b\u52bf\uff081\uff0c2\uff0c3\u7b49\uff09\u3002",
+    "reminders": [
+      "\u5f97\u77e5\u5916\u6765\u8005",
+      "\u5916\u6765\u8005\u6b7b\u4ea1"
+    ],
+    "setup": true,
+    "name": "\u5973\u4f2f\u7235",
+    "team": "townsfolk",
+    "ability": "\u5728\u4f60\u7684\u9996\u4e2a\u591c\u665a\uff0c\u4f60\u4f1a\u5f97\u77e5\u81f3\u5c11\u4e00\u4e2a\u5728\u573a\u7684\u5916\u6765\u8005\u89d2\u8272\uff08\u6216\u8005\u4f60\u4f1a\u5f97\u77e5\u6ca1\u6709\u5916\u6765\u8005\u5728\u573a\uff09\u3002\u5982\u679c\u6709\u5916\u6765\u8005\u5728\u4eca\u5929\u767d\u5929\u6216\u591c\u665a\u6b7b\u4ea1\uff0c\u4f60\u4f1a\u5728\u5f53\u665a\u5f97\u77e5\u8fd8\u6709\u591a\u5c11\u540d\u5916\u6765\u8005\u5b58\u6d3b\u3002[+1\u6216-1\u5916\u6765\u8005]",
+    "flavor": "There are some very peculiar guests at this party... Are they on the invite list?",
+    "firstNight": 15,
+    "otherNight": 16
+  },
+  {
+    "id": "publicdefender_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/publicdefender_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u8ba9\u8fa9\u62a4\u4eba\u6307\u5411\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\uff0c\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u5904\u51b3\u4e0d\u6b7b\u201d\u3002\u5982\u679c\u8be5\u73a9\u5bb6\u5728\u4e0b\u4e2a\u767d\u5929\u88ab\u5904\u51b3\u65f6\u662f\u5584\u826f\u7684\uff0c\u4ed6\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "otherNightReminder": "\u8ba9\u8fa9\u62a4\u4eba\u6307\u5411\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\uff0c\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u5904\u51b3\u4e0d\u6b7b\u201d\u3002\u5982\u679c\u8be5\u73a9\u5bb6\u5728\u4e0b\u4e2a\u767d\u5929\u88ab\u5904\u51b3\u65f6\u662f\u5584\u826f\u7684\uff0c\u4ed6\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "reminders": [
+      "\u5904\u51b3\u4e0d\u6b7b"
+    ],
+    "name": "\u8fa9\u62a4\u4eba",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u591c\u665a\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u7684\u73a9\u5bb6\uff1a\u5982\u679c\u4ed6\u5728\u4e0b\u4e2a\u767d\u5929\u88ab\u5904\u51b3\uff0c\u4e14\u4ed6\u662f\u5584\u826f\u7684\uff0c\u4ed6\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "flavor": "Your Honor, my client is completely innocent! They didn\u0027t... what was the charge again?",
+    "firstNight": 17,
+    "otherNight": 22
+  },
+  {
+    "id": "demagogue_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/demagogue_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u8ba9\u717d\u52a8\u8005\u6307\u5411\u4e00\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u76d1\u89c6\u201d\u3002",
+    "otherNightReminder": "\u5982\u679c\u5e26\u6709\u201c\u76d1\u89c6\u201d\u6807\u8bb0\u7684\u73a9\u5bb6\u88ab\u63d0\u540d\uff0c\u5411\u717d\u52a8\u8005\u5c55\u793a\u5bf9\u8be5\u73a9\u5bb6\u6295\u7968\u7684\u90aa\u6076\u73a9\u5bb6\u6570\u91cf\u7684\u624b\u52bf\uff081\uff0c2\uff0c3\u7b49\uff09\u3002\u79fb\u9664\u201c\u76d1\u89c6\u201d\u6807\u8bb0\u3002\u8ba9\u717d\u52a8\u8005\u6307\u5411\u4e00\u540d\u73a9\u5bb6\u3002\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u76d1\u89c6\u201d\u3002",
+    "reminders": [
+      "\u76d1\u89c6"
+    ],
+    "name": "\u717d\u52a8\u8005",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u591c\u665a\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4f60\u4f1a\u5728\u4e0b\u4e2a\u591c\u665a\u5f97\u77e5\u5f53\u5929\u6709\u591a\u5c11\u540d\u90aa\u6076\u73a9\u5bb6\u66fe\u6295\u7968\u7ed9\u4ed6\u3002",
+    "flavor": "Keep a watchful eye of your neighbors! Those who seek to undermine your very existence lie amongst you!",
+    "firstNight": 16,
+    "otherNight": 21
+  },
+  {
+    "id": "darkpassenger_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/darkpassenger_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u6807\u8bb0\u4eca\u665a\u56e0\u5176\u81ea\u8eab\u80fd\u529b\u5236\u9020\u6b7b\u4ea1\u7684\u73a9\u5bb6\u201c\u51f6\u624b\u201d\u3002\u5411\u9ed1\u6697\u6cd5\u533b\u5c55\u793a\u5e26\u6709\u201c\u51f6\u624b\u201d\u6807\u8bb0\u7684\u73a9\u5bb6\u6570\u91cf\u7684\u624b\u52bf\uff081\uff0c2\uff0c3\u7b49\uff09\u3002",
+    "reminders": [
+      "\u51f6\u624b"
+    ],
+    "name": "\u9ed1\u6697\u6cd5\u533b",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u4f1a\u5f97\u77e5\u4eca\u5929\u6709\u591a\u5c11\u540d\u73a9\u5bb6\u56e0\u5176\u81ea\u8eab\u80fd\u529b\u5236\u9020\u4e86\u6b7b\u4ea1\u3002\u5982\u679c\u4f60\u5728\u591c\u665a\u65f6\u6b7b\u4ea1\uff0c\u53ef\u80fd\u4f1a\u6709\u5176\u4ed6\u73a9\u5bb6\u4ee3\u66ff\u4f60\u6b7b\u4ea1\u3002",
+    "flavor": "I\u0027ve lived in darkness a long time. Eventually my eyes adjusted to it until it became my whole world. And then I could see.",
+    "otherNight": 17
+  },
+  {
+    "id": "informant_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/informant_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u5411\u7ebf\u4eba\u5c55\u793a\u4e00\u4e2a\u4e0e\u4e4b\u524d\u4e0d\u540c\u7684\u6b7b\u4ea1\u73a9\u5bb6\u7684\u89d2\u8272\u6807\u8bb0\u3002\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u5f97\u77e5\u201d\u3002\u5982\u679c\u6240\u6709\u6b7b\u4ea1\u73a9\u5bb6\u90fd\u5df2\u7ecf\u5f97\u77e5\uff0c\u4e0d\u5524\u9192\u7ebf\u4eba\u3002",
+    "reminders": [
+      "\u5f97\u77e5"
+    ],
+    "name": "\u7ebf\u4eba",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u4f1a\u5f97\u77e5\u4e00\u4e2a\u4e0e\u4e4b\u524d\u4e0d\u540c\u7684\u6b7b\u4ea1\u73a9\u5bb6\u7684\u89d2\u8272\u3002\u4f60\u53ef\u80fd\u4f1a\u88ab\u5f53\u4f5c\u90aa\u6076\u9635\u8425\u3001\u722a\u7259\u89d2\u8272\u6216\u6076\u9b54\u89d2\u8272\uff0c\u5373\u4f7f\u4f60\u5df2\u6b7b\u4ea1\u3002",
+    "flavor": "Do I know them? Of course I do. I know everyone in this town, from some perspective...",
+    "otherNight": 18
+  },
+  {
+    "id": "octovore_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/octovore_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u8ba9\u541e\u98df\u8005\u6307\u5411\u4e00\u540d\u73a9\u5bb6\u3002\u5982\u679c\u8be5\u73a9\u5bb6\u66fe\u7ecf\u88ab\u541e\u98df\u8005\u9009\u62e9\u8fc7\uff0c\u4ed6\u6b7b\u4ea1\u3002\u5426\u5219\u6807\u8bb0\u201c\u9009\u62e9\u201d\u3002\u5982\u679c\u8be5\u73a9\u5bb6\u662f\u90aa\u6076\u7684\uff0c\u5411\u8be5\u73a9\u5bb6\u5c55\u793a\u541e\u98df\u8005\u6807\u8bb0\u5e76\u6307\u5411\u541e\u98df\u8005\uff0c\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u9189\u9152\u201d\u3002",
+    "reminders": [
+      "\u9009\u62e9",
+      "\u9189\u9152",
+      "\u6b7b\u4ea1"
+    ],
+    "name": "\u541e\u98df\u8005",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u5982\u679c\u4f60\u66fe\u9009\u62e9\u8fc7\u4ed6\uff0c\u4ed6\u6b7b\u4ea1\u3002\u5982\u679c\u90aa\u6076\u73a9\u5bb6\u88ab\u4f60\u9996\u6b21\u9009\u4e2d\uff0c\u4ed6\u4f1a\u5f97\u77e5\u4f60\u662f\u8c01\uff0c\u4e14\u4ed6\u9189\u9152\u76f4\u5230\u4e0b\u4e2a\u9ec4\u660f\u3002",
+    "flavor": "A what? A scratch? Oh, I\u0027m sure that it\u0027s nothing. Probably an accident. I\u0027m sure it won\u0027t be a bother to anyone.",
+    "otherNight": 7
+  },
+  {
+    "id": "tombspitter_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/tombspitter_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u8ba9\u575f\u5893\u553e\u5f03\u8005\u6307\u5411\u4e00\u540d\u9664\u4ed6\u4ee5\u5916\u7684\u5b58\u6d3b\u73a9\u5bb6\u3002\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u770b\u62a4\u201d\u3002\u5982\u679c\u8be5\u73a9\u5bb6\u4eca\u665a\u88ab\u6076\u9b54\u6740\u6b7b\uff0c\u53ef\u80fd\u4f1a\u6709\u4e00\u540d\u5176\u4ed6\u7684\u6b7b\u4ea1\u9547\u6c11\u590d\u6d3b\u5e76\u4e2d\u6bd2\u3002",
+    "reminders": [
+      "\u770b\u62a4",
+      "\u590d\u6d3b",
+      "\u4e2d\u6bd2"
+    ],
+    "name": "\u575f\u5893\u553e\u5f03\u8005",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u9664\u4f60\u4ee5\u5916\u7684\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\uff1a\u5982\u679c\u4ed6\u4eca\u665a\u88ab\u6076\u9b54\u6740\u6b7b\uff0c\u53e6\u4e00\u540d\u6b7b\u4ea1\u9547\u6c11\u53ef\u80fd\u4f1a\u590d\u6d3b\u5e76\u4e2d\u6bd2\u5230\u4e0b\u4e2a\u9ec4\u660f\u3002",
+    "flavor": "Such vast misfortunes for such a small town... Far too many bodies... No one will mind if I make a little room.",
+    "otherNight": 6
+  },
+  {
+    "id": "auspex_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/auspex_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u9e1f\u535c\u5e08\u8981\u4e48\u6447\u5934\uff0c\u6807\u8bb0\u201c\u9009\u62e9\u4e09\u540d\u201d\uff0c\u8981\u4e48\u6307\u5411\u4e00\u540d\u73a9\u5bb6\uff0c\u5411\u9e1f\u535c\u5e08\u5c55\u793a\u4e24\u4e2a\u89d2\u8272\u6807\u8bb0\uff0c\u5176\u4e2d\u4e00\u4e2a\u89d2\u8272\u662f\u8be5\u73a9\u5bb6\u3002\u5982\u679c\u9e1f\u535c\u5e08\u4e0a\u4e2a\u591c\u665a\u6ca1\u6709\u9009\u62e9\u4efb\u4f55\u73a9\u5bb6\uff0c\u8ba9\u4ed6\u6307\u5411\u4e09\u540d\u73a9\u5bb6\uff0c\u5e76\u5c55\u793a\u56db\u4e2a\u89d2\u8272\u6807\u8bb0\uff0c\u5176\u4e2d\u6709\u4e09\u4e2a\u89d2\u8272\u662f\u90a3\u4e9b\u73a9\u5bb6\u3002\u9e1f\u535c\u5e08\u4e0d\u80fd\u9009\u62e9\u81ea\u5df1\u6216\u8005\u65c5\u884c\u8005\u3002",
+    "reminders": [
+      "\u9009\u62e9\u4e09\u540d"
+    ],
+    "name": "\u9e1f\u535c\u5e08",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u9664\u4f60\u53ca\u65c5\u884c\u8005\u4ee5\u5916\u7684\u4e00\u540d\u73a9\u5bb6\uff1a\u4f60\u4f1a\u5f97\u77e5\u4e24\u4e2a\u89d2\u8272\uff0c\u8be5\u73a9\u5bb6\u662f\u5176\u4e2d\u4e00\u4e2a\u89d2\u8272\u3002\u5982\u679c\u4f60\u4e0a\u6b21\u9009\u62e9\u65f6\u6ca1\u6709\u9009\u62e9\u4efb\u4f55\u73a9\u5bb6\uff0c\u5f53\u665a\u4f60\u8981\u9009\u62e9\u4e09\u540d\u73a9\u5bb6\uff1a\u4f60\u4f1a\u5f97\u77e5\u56db\u4e2a\u89d2\u8272\uff0c\u4ed6\u4eec\u662f\u5176\u4e2d\u7684\u4e09\u4e2a\u89d2\u8272\u3002",
+    "flavor": "A strange formation of clouds and a flock of fowl moving north... Quite odd. A poor omen, indeed.",
+    "otherNight": 20
+  },
+  {
+    "id": "hitman_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/hitman_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u79fb\u9664\u201c\u9189\u9152\u201d\u6807\u8bb0\u3002\u5982\u679c\u804c\u4e1a\u6740\u624b\u4eca\u5929\u767d\u5929\u731c\u6d4b\u6b63\u786e\uff1a\u88ab\u731c\u5bf9\u7684\u73a9\u5bb6\u9189\u9152\u3002",
+    "reminders": [
+      "\u731c\u6d4b\u6b63\u786e",
+      "\u9189\u9152"
+    ],
+    "name": "\u804c\u4e1a\u6740\u624b",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u767d\u5929\uff0c\u4f60\u53ef\u4ee5\u516c\u5f00\u731c\u6d4b\u4e00\u540d\u73a9\u5bb6\u7684\u89d2\u8272\uff1a\u5982\u679c\u731c\u5bf9\uff0c\u4ed6\u5728\u5f53\u665a\u548c\u660e\u5929\u767d\u5929\u9189\u9152\u3002",
+    "flavor": "A list of names. A simple set of rules. A simple mission to protect the innocent. Nothing personal.",
+    "otherNight": 3
+  },
+  {
+    "id": "mobster_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/mobster_beyondgoodandevilv3.png",
+    "reminders": [
+      "\u5931\u53bb\u80fd\u529b\u5e76\u6b7b\u4ea1"
+    ],
+    "setup": true,
+    "name": "\u608d\u532a",
+    "team": "townsfolk",
+    "ability": "\u6bcf\u4e2a\u767d\u5929\uff0c\u4f60\u53ef\u4ee5\u516c\u5f00\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\uff1a\u5982\u679c\u4ed6\u662f\u5916\u6765\u8005\uff0c\u4ed6\u5931\u53bb\u80fd\u529b\u5e76\u6b7b\u4ea1\u3002[+1\u5916\u6765\u8005]",
+    "flavor": "You listen here because I\u0027m only gonna tell ya once: Don\u0027t make any trouble in my town. People who cause trouble find ways to... disappear around here."
+  },
+  {
+    "id": "architect_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/architect_beyondgoodandevilv3.png",
+    "reminders": [
+      "\u9547\u6c11\u4e0d\u4f1a\u6b7b\u4ea1"
+    ],
+    "name": "\u5efa\u7b51\u5e08",
+    "team": "townsfolk",
+    "ability": "\u5982\u679c\u4e00\u540d\u722a\u7259\u6b7b\u4e8e\u5904\u51b3\uff0c\u4eca\u665a\u9547\u6c11\u4e0d\u4f1a\u6b7b\u4ea1\u3002",
+    "flavor": "I\u0027ve checked my measurements and calculations several times now. With careful reinforcement here, everyone should be safe even in the worst case scenario."
+  },
+  {
+    "id": "revenant_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/revenant_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u5982\u679c\u5f52\u6765\u8005\u88ab\u5f53\u4f5c\u6b7b\u4ea1\uff0c\u5524\u9192\u4ed6\u5e76\u6307\u5411\u4e00\u540d\u6ca1\u6709\u201c\u5f97\u77e5\u201d\u6807\u8bb0\u7684\u975e\u6076\u9b54\u7684\u5b58\u6d3b\u73a9\u5bb6\u3002\u6807\u8bb0\u8be5\u73a9\u5bb6\u201c\u5f97\u77e5\u201d\u3002",
+    "reminders": [
+      "\u5047\u6b7b",
+      "\u5f97\u77e5"
+    ],
+    "name": "\u5f52\u6765\u8005",
+    "team": "townsfolk",
+    "ability": "\u5f53\u4f60\u9996\u6b21\u6b7b\u4ea1\u540e\uff0c\u4f60\u4ecd\u5b58\u6d3b\uff0c\u4f46\u88ab\u5f53\u4f5c\u6b7b\u4ea1\u3002\u4f60\u88ab\u5f53\u4f5c\u6b7b\u4ea1\u7684\u6bcf\u4e2a\u591c\u665a\uff0c\u4f60\u4f1a\u5f97\u77e5\u4e00\u540d\u4e0e\u4e4b\u524d\u4e0d\u540c\u7684\u975e\u6076\u9b54\u7684\u5b58\u6d3b\u73a9\u5bb6\u3002",
+    "flavor": "Those who walk in the land of living think of themselves as awake, but they are mistaken. They shamble amidst slumber, blind to the truth of the grave. Beyond the reach of this feeble flesh lies sight beyond sight.",
+    "otherNight": 19
+  },
+  {
+    "id": "specter_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/specter_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u5982\u679c\u6e38\u9b42\u6b7b\u4ea1\uff0c\u4e14\u573a\u4e0a\u6ca1\u6709\u5176\u4ed6\u6e38\u9b42\uff0c\u4e00\u540d\u5176\u4ed6\u9547\u6c11\u53d8\u4e3a\u6e38\u9b42\u3002",
+    "remindersGlobal": [
+      "\u662f\u6e38\u9b42",
+      "\u9650\u4e00\u6b21"
+    ],
+    "name": "\u6e38\u9b42",
+    "team": "outsider",
+    "ability": "\u4f60\u4e0d\u77e5\u9053\u4f60\u662f\u6e38\u9b42\u3002\u4f60\u4ee5\u4e3a\u4f60\u662f\u4e00\u4e2a\u5176\u4ed6\u5584\u826f\u89d2\u8272\uff0c\u5373\u4f7f\u4f60\u5df2\u6b7b\u4ea1\uff0c\u4f46\u5176\u5b9e\u4f60\u4e0d\u662f\u3002\u9996\u4e2a\u6e38\u9b42\u6b7b\u4ea1\u65f6\uff0c\u4f1a\u6709\u4e00\u540d\u9547\u6c11\u5728\u5f53\u665a\u53d8\u4e3a\u6e38\u9b42\u3002",
+    "flavor": "My past life is no more and yet still remains. I am hollow... and alone.",
+    "otherNight": 5
+  },
+  {
+    "id": "hex_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/hex_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u9009\u62e9\u4e00\u540d\u5e26\u6709\u201c\u5df2\u63d0\u540d\u201d\u6807\u8bb0\u7684\u73a9\u5bb6\uff0c\u4ed6\u6b7b\u4ea1\u3002\u79fb\u9664\u6240\u6709\u201c\u5df2\u63d0\u540d\u201d\u6807\u8bb0\u3002",
+    "reminders": [
+      "\u5df2\u63d0\u540d",
+      "\u6b7b\u4ea1"
+    ],
+    "name": "\u65bd\u5492\u8005",
+    "team": "outsider",
+    "ability": "\u53ef\u80fd\u4f1a\u6709\u4e00\u540d\u4eca\u5929\u53d1\u8d77\u63d0\u540d\u7684\u73a9\u5bb6\u5728\u591c\u665a\u6b7b\u4ea1\u3002",
+    "flavor": "Ribbit.",
+    "otherNight": 15
+  },
+  {
+    "id": "cyclox_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/cyclox_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u5982\u679c\u56de\u73af\u6b7b\u4ea1\uff0c\u9547\u6c11\u73a9\u5bb6\u7684\u80fd\u529b\u53ef\u80fd\u5728\u5f53\u665a\u548c\u660e\u5929\u767d\u5929\u4ea7\u751f\u9519\u8bef\u4fe1\u606f\u3002",
+    "reminders": [
+      "\u4fe1\u606f\u51fa\u9519"
+    ],
+    "name": "\u56de\u73af",
+    "team": "outsider",
+    "ability": "\u5f53\u4f60\u6b7b\u4ea1\u65f6\uff0c\u9547\u6c11\u73a9\u5bb6\u7684\u80fd\u529b\u53ef\u80fd\u5728\u5f53\u665a\u548c\u660e\u5929\u767d\u5929\u4ea7\u751f\u9519\u8bef\u4fe1\u606f\u3002",
+    "flavor": "They try to learn, but see the storm. For answers, yearn, but wrong in form. The masses plea, seek wrong from right. They try to flee, but day is night.",
+    "otherNight": 4
+  },
+  {
+    "id": "hanabi_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/hanabi_beyondgoodandevilv3.png",
+    "reminders": [
+      "\u6b7b\u4ea1"
+    ],
+    "name": "\u82b1\u706b",
+    "team": "outsider",
+    "ability": "\u5982\u679c\u4f60\u201c\u75af\u72c2\u201d\u5730\u8bc1\u660e\u82b1\u706b\u5728\u573a\uff0c\u4f60\u53ef\u80fd\u4f1a\u88ab\u5904\u51b3\u3002\u5982\u679c\u4f60\u88ab\u5904\u51b3\uff0c\u4e0e\u4f60\u90bb\u8fd1\u7684\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\u53ef\u80fd\u4f1a\u7acb\u5373\u6b7b\u4ea1\u3002",
+    "flavor": "A missing shipment of fireworks, you say? No, sir, I wouldn\u0027t know anything about that!"
+  },
+  {
+    "id": "fugitive_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/fugitive_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u5728\u722a\u7259\u4fe1\u606f\u73af\u8282\u4e4b\u540e\uff0c\u5206\u522b\u5524\u9192\u722a\u7259\u5e76\u5411\u4ed6\u4eec\u5c55\u793a\u4e24\u4e2a\u4e0d\u5728\u573a\u7684\u89d2\u8272\u6807\u8bb0\u3002\u8fd9\u4e9b\u89d2\u8272\u53ef\u4ee5\u4e0e\u6076\u9b54\u5f97\u77e5\u7684\u4e0d\u5728\u573a\u89d2\u8272\u76f8\u540c\u6216\u4e0d\u540c\u3002",
+    "otherNightReminder": "\u5982\u679c\u9003\u4ea1\u8005\u9996\u6b21\u88ab\u5f53\u4f5c\u9519\u8bef\u7684\u9635\u8425\u6216\u89d2\u8272\uff0c\u5411\u4ed6\u5c55\u793a\u201c\u8bef\u8ba4\u201d\u63d0\u793a\u6807\u8bb0\u3002",
+    "reminders": [
+      "\u8bef\u8ba4"
+    ],
+    "setup": true,
+    "name": "\u9003\u4ea1\u8005",
+    "team": "minion",
+    "ability": "\u722a\u7259\u4f1a\u5728\u5176\u9996\u4e2a\u591c\u665a\u5f97\u77e5\u4e24\u4e2a\u4e0d\u5728\u573a\u7684\u89d2\u8272\u3002\u4f60\u53ef\u80fd\u4f1a\u88ab\u5f53\u4f5c\u5584\u826f\u9635\u8425\u3001\u9547\u6c11\u89d2\u8272\u6216\u5916\u6765\u8005\u89d2\u8272\uff0c\u5f53\u4f60\u9996\u6b21\u88ab\u5f53\u4f5c\u9519\u8bef\u7684\u9635\u8425\u6216\u89d2\u8272\u65f6\uff0c\u4f60\u4f1a\u5f97\u77e5\u8fd9\u4e00\u4fe1\u606f\uff0c\u5373\u4f7f\u4f60\u5df2\u6b7b\u4ea1\u3002[+1\u5916\u6765\u8005]",
+    "flavor": "Maybe once this is taken care of I can finally stop running... Just one last job.",
+    "firstNight": 6,
+    "otherNight": 25
+  },
+  {
+    "id": "saboteur_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/saboteur_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u5411\u6076\u9b54\u5c55\u793a\u7834\u574f\u72c2\u7684\u89d2\u8272\u6807\u8bb0\uff0c\u5e76\u6307\u5411\u7834\u574f\u72c2\u73a9\u5bb6\u3002",
+    "otherNightReminder": "\u8ba9\u7834\u574f\u72c2\u6307\u5411\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\u3002\u6807\u8bb0\u73a9\u5bb6\u201c\u5012\u8ba1\u65f6\u201d\uff0c\u8be5\u73a9\u5bb6\u968f\u65f6\u53ef\u80fd\u6b7b\u4ea1\u3002\u5411\u6076\u9b54\u5c55\u793a\u201c\u5012\u8ba1\u65f6\u201d\u63d0\u793a\u6807\u8bb0\uff0c\u7136\u540e\u6307\u5411\u88ab\u6807\u8bb0\u7684\u73a9\u5bb6\u3002",
+    "reminders": [
+      "\u5012\u8ba1\u65f6",
+      "\u6b7b\u4ea1"
+    ],
+    "name": "\u7834\u574f\u72c2",
+    "team": "minion",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\uff1a\u4ed6\u968f\u65f6\u53ef\u80fd\u6b7b\u4ea1\u3002\u6076\u9b54\u4f1a\u5f97\u77e5\u4f60\u662f\u8c01\uff0c\u4ee5\u53ca\u4f60\u5728\u591c\u665a\u9009\u62e9\u4e86\u8c01\u3002",
+    "flavor": "Green wire to red? Or is it green to black? And the clock doesn\u0027t seem to ever read the right time... Oh well! Who doesn\u0027t love surprises?",
+    "firstNight": 7,
+    "otherNight": 10
+  },
+  {
+    "id": "gravedigger_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/gravedigger_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u5982\u679c\u6709\u73a9\u5bb6\u4eca\u5929\u767d\u5929\u6b7b\u4e8e\u5904\u51b3\uff0c\u5411\u6398\u5893\u4eba\u5c55\u793a\u8be5\u73a9\u5bb6\u7684\u89d2\u8272\u6807\u8bb0\u3002\u5982\u679c\u6398\u5893\u4eba\u66fe\u5728\u8be5\u6b21\u5904\u51b3\u4e2d\u6295\u7968\uff1a\u5982\u679c\u4ed6\u70b9\u5934\uff0c\u90a3\u540d\u73a9\u5bb6\u590d\u6d3b\u3002\u5426\u5219\uff0c\u6240\u6709\u66fe\u7ed9\u90a3\u540d\u73a9\u5bb6\u6295\u7968\u7684\u5b58\u6d3b\u9547\u6c11\u4e2d\u6bd2\u76f4\u5230\u4e0b\u4e2a\u9ec4\u660f\u3002",
+    "reminders": [
+      "\u6295\u7968",
+      "\u6b7b\u4e8e\u4eca\u65e5",
+      "\u590d\u6d3b",
+      "\u4e2d\u6bd2"
+    ],
+    "name": "\u6398\u5893\u4eba",
+    "team": "minion",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u4f1a\u5f97\u77e5\u4eca\u5929\u767d\u5929\u6b7b\u4e8e\u5904\u51b3\u7684\u73a9\u5bb6\u7684\u89d2\u8272\uff0c\u5982\u679c\u4f60\u5728\u8fd9\u9879\u63d0\u540d\u4e2d\u6295\u8fc7\u7968\uff0c\u5728\u8fd9\u9879\u63d0\u540d\u4e2d\u6295\u8fc7\u7968\u7684\u5b58\u6d3b\u9547\u6c11\u90fd\u4f1a\u4e2d\u6bd2\u76f4\u5230\u4e0b\u4e2a\u9ec4\u660f\u3002\u6bcf\u5c40\u6e38\u620f\u9650\u4e00\u6b21\uff0c\u4f60\u53ef\u4ee5\u6539\u4e3a\u590d\u6d3b\u4ed6\u3002",
+    "flavor": "After all the flowery words are said and pretty tears are shed, they all leave the real work to me... but at the end of it all, I get the final say... Now let\u0027s see if this one is useful.",
+    "otherNight": 8
+  },
+  {
+    "id": "thug_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/thug_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u5411\u4e00\u540d\u90aa\u6076\u9547\u6c11\u5c55\u793a\u201c\u4f60\u662f\u201d\u63d0\u793a\u5361\u5e76\u5c55\u793a\u62c7\u6307\u5411\u4e0b\u4ee3\u8868\u90aa\u6076\u7684\u624b\u52bf\uff0c\u7136\u540e\u6307\u5411\u6076\u68cd\uff0c\u5e76\u5c55\u793a\u6076\u68cd\u7684\u89d2\u8272\u6807\u8bb0\u3002",
+    "otherNightReminder": "\u5982\u679c\u5f97\u77e5\u6076\u68cd\u7684\u90aa\u6076\u9547\u6c11\u6b7b\u4ea1\uff0c\u8ba9\u6076\u68cd\u6307\u5411\u4e00\u540d\u73a9\u5bb6\uff0c\u5411\u4ed6\u5c55\u793a\u8be5\u73a9\u5bb6\u7684\u89d2\u8272\u6807\u8bb0\uff0c\u8be5\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "reminders": [
+      "\u77e5\u6653",
+      "\u6b7b\u4ea1"
+    ],
+    "setup": true,
+    "name": "\u6076\u68cd",
+    "team": "minion",
+    "ability": "\u4f1a\u6709\u4e00\u540d\u90aa\u6076\u9547\u6c11\u77e5\u9053\u4f60\u662f\u8c01\u3002\u5982\u679c\u4ed6\u6b7b\u4ea1\uff0c\u5728\u5f53\u665a\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4f60\u4f1a\u5f97\u77e5\u4ed6\u7684\u89d2\u8272\u4e14\u4ed6\u6b7b\u4ea1\u3002[\u4f1a\u6709\u4e00\u540d\u9547\u6c11\u8f6c\u53d8\u4e3a\u90aa\u6076\u9635\u8425]",
+    "flavor": "You work for me now.",
+    "firstNight": 13,
+    "otherNight": 9
+  },
+  {
+    "id": "landlord_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/landlord_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u79fb\u9664\u201c\u4e2d\u6bd2\u201d\u6807\u8bb0\u3002\u8ba9\u541d\u556c\u9b3c\u6307\u5411\u4e24\u540d\u73a9\u5bb6\u3002\u4e00\u540d\u6b7b\u4ea1\uff0c\u53e6\u4e00\u540d\u4e2d\u6bd2\u3002",
+    "reminders": [
+      "\u6b7b\u4ea1",
+      "\u4e2d\u6bd2"
+    ],
+    "name": "\u541d\u556c\u9b3c",
+    "team": "demon",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e24\u540d\u73a9\u5bb6\uff1a\u5176\u4e2d\u4e00\u540d\u4e2d\u6bd2\u76f4\u5230\u4e0b\u4e2a\u9ec4\u660f\uff0c\u53e6\u4e00\u540d\u6b7b\u4ea1\u3002",
+    "flavor": "I understand that times have been tough - it has been for all of us - but I\u0027m afraid the market has changed.",
+    "otherNight": 11
+  },
+  {
+    "id": "highroller_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/highroller_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u8ba9\u8c6a\u8d4c\u5ba2\u6307\u5411\u4e00\u540d\u73a9\u5bb6\uff0c\u5e76\u6307\u5411\u89d2\u8272\u5217\u8868\u4e0a\u7684\u4e00\u4e2a\u89d2\u8272\uff0c\u8be5\u73a9\u5bb6\u6b7b\u4ea1\u3002\u5982\u679c\u731c\u6d4b\u6b63\u786e\uff0c\u518d\u6b21\u8ba9\u8c6a\u8d4c\u5ba2\u6307\u5411\u4e00\u540d\u5176\u4ed6\u73a9\u5bb6\uff0c\u8be5\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "reminders": [
+      "\u6b7b\u4ea1"
+    ],
+    "name": "\u8c6a\u8d4c\u5ba2",
+    "team": "demon",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\u5e76\u731c\u6d4b\u4ed6\u7684\u89d2\u8272\uff1a\u4ed6\u6b7b\u4ea1\u3002\u5982\u679c\u731c\u5bf9\uff0c\u4f60\u8981\u989d\u5916\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u6b7b\u4ea1\u3002",
+    "flavor": "Double or nothing... all on red.",
+    "otherNight": 12
+  },
+  {
+    "id": "machinist_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/machinist_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u5982\u679c\u673a\u68b0\u5e08\u70b9\u5934\uff0c\u6240\u6709\u5e26\u6709\u201c\u5012\u8ba1\u65f6\u201d\u6807\u8bb0\u7684\u5b58\u6d3b\u73a9\u5bb6\u6b7b\u4ea1\uff1b\u5982\u679c\u4ed6\u6447\u5934\uff0c\u8ba9\u4ed6\u6307\u5411\u4e00\u540d\u73a9\u5bb6\uff0c\u8be5\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "reminders": [
+      "\u6b7b\u4ea1",
+      "\u5df2\u5f15\u7206"
+    ],
+    "setup": true,
+    "name": "\u673a\u68b0\u5e08",
+    "team": "demon",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u6b7b\u4ea1\u3002\u6216\u8005\uff0c\u6bcf\u5c40\u6e38\u620f\u9650\u4e00\u6b21\uff0c\u8ba9\u6240\u6709\u88ab\u7834\u574f\u72c2\u9009\u62e9\u7684\u73a9\u5bb6\u6b7b\u4ea1\u3002[+\u7834\u574f\u72c2]",
+    "flavor": "Every part in here is a disaster. And over here has so much faulty wiring... What were they THINKING? ... It\u0027s PERFECT!",
+    "otherNight": 13
+  },
+  {
+    "id": "gardener_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/gardener_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u8ba9\u56ed\u827a\u5e08\u6307\u5411\u4e00\u540d\u73a9\u5bb6\uff1a\u90a3\u540d\u73a9\u5bb6\u6b7b\u4ea1\u3002\u5982\u679c\u56ed\u827a\u5e08\u6b7b\u4ea1\uff0c\u5e76\u4e14\u573a\u4e0a\u81f3\u5c11\u6709\u4e94\u540d\u73a9\u5bb6\u5b58\u6d3b\uff0c\u4e14\u6ca1\u6709\u5176\u4ed6\u56ed\u827a\u5e08\uff0c\u5728\u5f53\u665a\u5524\u9192\u65b0\u7684\u56ed\u827a\u5e08\uff0c\u5411\u4ed6\u5c55\u793a\u201c\u4f60\u662f\u201d\u63d0\u793a\u5361\u5e76\u5c55\u793a\u56ed\u827a\u5e08\u7684\u89d2\u8272\u6807\u8bb0\u3002",
+    "reminders": [
+      "\u6b7b\u4ea1",
+      "\u9650\u4e00\u6b21"
+    ],
+    "name": "\u56ed\u827a\u5e08",
+    "team": "demon",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u8981\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u6b7b\u4ea1\u3002\u5982\u679c\u5927\u4e8e\u7b49\u4e8e\u4e94\u540d\u73a9\u5bb6\u5b58\u6d3b\u65f6\uff08\u65c5\u884c\u8005\u4e0d\u8ba1\u7b97\u5728\u5185\uff09\u9996\u4e2a\u56ed\u827a\u5e08\u6b7b\u4ea1\uff0c\u4f1a\u6709\u4e00\u540d\u722a\u7259\u53d8\u4e3a\u56ed\u827a\u5e08\u3002",
+    "flavor": "Everyone wishes to grow something that will outlive them, right?",
+    "otherNight": 14
+  },
+  {
+    "id": "invoker_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/invoker_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u5411\u7948\u8a00\u5e08\u5c55\u793a\u5173\u952e\u8bcd\u3002",
+    "otherNightReminder": "\u5524\u9192\u4eca\u5929\u767d\u5929\u9996\u4e2a\u8bf4\u51fa\u5173\u952e\u8bcd\u7684\u73a9\u5bb6\uff0c\u5411\u4ed6\u5c55\u793a\u201c\u8fd9\u4e2a\u89d2\u8272\u80fd\u529b\u5bf9\u4f60\u751f\u6548\u201d\u63d0\u793a\u5361\uff0c\u5e76\u5c55\u793a\u7948\u8a00\u5e08\u7684\u89d2\u8272\u6807\u8bb0\u3002\u4ed6\u4eca\u665a\u80fd\u591f\u884c\u52a8\u4e24\u6b21\u3002",
+    "reminders": [
+      "\u884c\u52a8\u4e24\u6b21"
+    ],
+    "name": "\u7948\u8a00\u5e08",
+    "team": "traveler",
+    "ability": "\u5728\u4f60\u7684\u9996\u4e2a\u591c\u665a\uff0c\u4f60\u4f1a\u5f97\u77e5\u4e00\u4e2a\u5173\u952e\u8bcd\u3002\u6bcf\u4e2a\u767d\u5929\uff0c\u9996\u4e2a\u8bf4\u51fa\u8be5\u5173\u952e\u8bcd\u7684\u9664\u65c5\u884c\u8005\u4ee5\u5916\u7684\u5b58\u6d3b\u73a9\u5bb6\u53ef\u80fd\u5728\u5f53\u665a\u884c\u52a8\u4e24\u6b21\u3002",
+    "flavor": "The person who said a picture is worth a thousand words never met a true writer. The right word can be a thousand pictures.",
+    "firstNight": 18,
+    "otherNight": 2
+  },
+  {
+    "id": "fateweaver_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/fateweaver_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u8ba9\u7ec7\u547d\u8005\u6307\u5411\u4e24\u540d\u9664\u65c5\u884c\u8005\u4ee5\u5916\u7684\u5b58\u6d3b\u73a9\u5bb6\u3002\u6807\u8bb0\u7b2c\u4e00\u540d\u73a9\u5bb6\u201c\u6ce8\u89c6\u201d\uff0c\u6807\u8bb0\u7b2c\u4e8c\u540d\u73a9\u5bb6\u201c\u547d\u4e2d\u6ce8\u5b9a\u201d\u3002\u4e0b\u4e2a\u767d\u5929\uff0c\u5982\u679c\u5e26\u6709\u201c\u6ce8\u89c6\u201d\u7684\u73a9\u5bb6\u6b7b\u4e8e\u5904\u51b3\uff0c\u5e26\u6709\u201c\u547d\u4e2d\u6ce8\u5b9a\u201d\u7684\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "otherNightReminder": "\u79fb\u9664\u6240\u6709\u6807\u8bb0\u3002\u5982\u679c\u8fd8\u6709\u5927\u4e8e\u7b49\u4e8e\u4e94\u540d\u73a9\u5bb6\u5b58\u6d3b\uff0c\u8ba9\u7ec7\u547d\u8005\u6307\u5411\u4e24\u540d\u9664\u65c5\u884c\u8005\u4ee5\u5916\u7684\u5b58\u6d3b\u73a9\u5bb6\u3002\u6807\u8bb0\u7b2c\u4e00\u540d\u73a9\u5bb6\u201c\u6ce8\u89c6\u201d\uff0c\u6807\u8bb0\u7b2c\u4e8c\u540d\u73a9\u5bb6\u201c\u547d\u4e2d\u6ce8\u5b9a\u201d\u3002\u4e0b\u4e2a\u767d\u5929\uff0c\u5982\u679c\u5e26\u6709\u201c\u6ce8\u89c6\u201d\u7684\u73a9\u5bb6\u6b7b\u4e8e\u5904\u51b3\uff0c\u5e26\u6709\u201c\u547d\u4e2d\u6ce8\u5b9a\u201d\u7684\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "reminders": [
+      "\u6ce8\u89c6",
+      "\u547d\u4e2d\u6ce8\u5b9a",
+      "\u6b7b\u4ea1"
+    ],
+    "name": "\u7ec7\u547d\u8005",
+    "team": "traveler",
+    "ability": "\u6bcf\u4e2a\u591c\u665a\uff0c\u5982\u679c\u8fd8\u6709\u5927\u4e8e\u7b49\u4e8e\u4e94\u540d\u73a9\u5bb6\u5b58\u6d3b\uff0c\u4f60\u8981\u9009\u62e9\u4e24\u540d\u9664\u65c5\u884c\u8005\u4ee5\u5916\u7684\u5b58\u6d3b\u73a9\u5bb6\uff1a\u5982\u679c\u7b2c\u4e00\u540d\u73a9\u5bb6\u5728\u4e0b\u4e2a\u767d\u5929\u6b7b\u4e8e\u5904\u51b3\uff0c\u7b2c\u4e8c\u540d\u73a9\u5bb6\u4e5f\u6b7b\u4ea1\u3002",
+    "flavor": "Few are gifted enough to see the red string of fate... Fewer still have the gift to stitch with it.",
+    "firstNight": 19,
+    "otherNight": 23
+  },
+  {
+    "id": "commandant_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/commandant_beyondgoodandevilv3.png",
+    "otherNightReminder": "\u5411\u6307\u6325\u5b98\u5c55\u793a\u62c7\u6307\u5411\u4e0a\u624b\u52bf\u8868\u793a\u5584\u826f\u4f18\u52bf\uff0c\u62c7\u6307\u5411\u4e0b\u624b\u52bf\u8868\u793a\u90aa\u6076\u4f18\u52bf\uff0c\u62c7\u6307\u6a2a\u5411\u8868\u793a\u5747\u52bf\u3002\u5982\u679c\u6307\u6325\u5b98\u8fd8\u6ca1\u6709\u8ba9\u73a9\u5bb6\u91cd\u83b7\u6295\u7968\u6807\u8bb0\uff1a\u4ed6\u8981\u4e48\u6447\u5934\uff0c\u8981\u4e48\u6307\u5411\u4e00\u540d\u6b7b\u4ea1\u73a9\u5bb6\u3002\u5982\u679c\u8be5\u73a9\u5bb6\u7684\u9635\u8425\u5904\u4e8e\u52a3\u52bf\uff0c\u5728\u9ece\u660e\u65f6\uff0c\u5ba3\u5e03\u8be5\u73a9\u5bb6\u91cd\u83b7\u6295\u7968\u6807\u8bb0\u3002",
+    "reminders": [
+      "\u91cd\u83b7\u6807\u8bb0"
+    ],
+    "name": "\u6307\u6325\u5b98",
+    "team": "traveler",
+    "ability": "\u6bcf\u4e2a\u591c\u665a*\uff0c\u4f60\u4f1a\u5f97\u77e5\u8bf4\u4e66\u4eba\u8ba4\u4e3a\u54ea\u4e2a\u9635\u8425\u5f53\u524d\u66f4\u6709\u4f18\u52bf\uff08\u5584\u826f/\u90aa\u6076/\u5747\u52bf\uff09\u3002\u6bcf\u5c40\u6e38\u620f\u9650\u4e00\u6b21\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u6b7b\u4ea1\u73a9\u5bb6\uff1a\u5982\u679c\u4ed6\u7684\u9635\u8425\u5904\u4e8e\u52a3\u52bf\uff0c\u4ed6\u91cd\u83b7\u6295\u7968\u6807\u8bb0\u3002",
+    "flavor": "No plan survives contact with the enemy.",
+    "otherNight": 24
+  },
+  {
+    "id": "charismatic_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/charismatic_beyondgoodandevilv3.png",
+    "reminders": [
+      "\u6b7b\u4ea1"
+    ],
+    "name": "\u7075\u6069\u7267\u5e08",
+    "team": "traveler",
+    "ability": "\u6bcf\u4e2a\u767d\u5929\uff0c\u4f60\u53ef\u4ee5\u63d0\u8bae\u6240\u6709\u73a9\u5bb6\u6295\u7968\u652f\u6301\u4f60\u7684\u6559\u4f1a\u3002\u5982\u679c\u9996\u6b21\u6240\u6709\u5584\u826f\u73a9\u5bb6\u9009\u62e9\u652f\u6301\u4f60\uff0c\u4f1a\u6709\u4e00\u540d\u4e0e\u4f60\u9635\u8425\u5bf9\u7acb\u7684\u73a9\u5bb6\u6b7b\u4ea1\u3002",
+    "flavor": "As we are gathered here today, I make my plea once more for your simple trust, that I might show you all the truth."
+  },
+  {
+    "id": "graduate_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/graduate_beyondgoodandevilv3.png",
+    "reminders": [
+      "\u5931\u53bb\u80fd\u529b",
+      "\u590d\u6d3b",
+      "\u6b7b\u4ea1"
+    ],
+    "name": "\u6bd5\u4e1a\u751f",
+    "team": "traveler",
+    "ability": "\u6bcf\u4e2a\u767d\u5929*\uff0c\u5728\u9ece\u660e\u65f6\uff0c\u5f53\u4f60\u5f97\u77e5\u6709\u4eba\u6b7b\u4ea1\u65f6\uff0c\u4f60\u53ef\u4ee5\u9009\u62e9\u4e00\u540d\u6b7b\u4ea1\u73a9\u5bb6\u548c\u4e00\u540d\u5b58\u6d3b\u73a9\u5bb6\u3002\u5982\u679c\u83b7\u5f97\u534a\u6570\u4ee5\u4e0a\u7684\u73a9\u5bb6\u540c\u610f\uff0c\u6b7b\u4ea1\u7684\u73a9\u5bb6\u590d\u6d3b\uff0c\u5b58\u6d3b\u7684\u73a9\u5bb6\u6b7b\u4ea1\uff0c\u4e14\u4f60\u5931\u53bb\u80fd\u529b\u3002",
+    "flavor": "Do I know what I\u0027m doing? I have studied this process for over three years, devoted countless hours to research and analysis, performed at least one hundred scale unit tests, and had my concepts published in at least ten reputable journals... so no, absolutely not."
+  },
+  {
+    "id": "facsimilie_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/facsimilie_beyondgoodandevilv3.png",
+    "firstNightReminder": "\u5524\u9192\u5e26\u6709\u201c\u53cc\u751f\u201d\u6807\u8bb0\u7684\u73a9\u5bb6\u3002\u5411\u4ed6\u5c55\u793a\u201c\u53cc\u751f\u201d\u7684\u4f20\u5947\u89d2\u8272\u6807\u8bb0\uff0c\u7136\u540e\u62c7\u6307\u5411\u4e0a\u8868\u793a\u5584\u826f\uff0c\u62c7\u6307\u5411\u4e0b\u8868\u793a\u90aa\u6076\u3002",
+    "remindersGlobal": [
+      "\u53cc\u751f"
+    ],
+    "setup": true,
+    "name": "\u53cc\u751f",
+    "team": "fabled",
+    "ability": "\u5728\u521d\u59cb\u8bbe\u7f6e\u65f6\uff0c\u53ef\u80fd\u4f1a\u6709\u4e24\u540d\u76f8\u540c\u89d2\u8272\u7684\u73a9\u5bb6\u4e14\u4ed6\u4eec\u5c5e\u4e8e\u4e0d\u540c\u9635\u8425\u3002\u5728\u6e38\u620f\u7684\u9996\u4e2a\u591c\u665a\uff0c\u4ed6\u4eec\u4f1a\u5f97\u77e5\u6b64\u4e8b\u3002\u4ed6\u4eec\u53ef\u80fd\u4f1a\u88ab\u5f53\u4f5c\u5916\u6765\u8005\u89d2\u8272\u6216\u722a\u7259\u89d2\u8272\u3002",
+    "flavor": "You would be surprised with just how much you can get away with by just walking into a place confidently, as if you are supposed to be there.",
+    "firstNight": 4
+  },
+  {
+    "id": "clairvoyant_beyondgoodandevilv3",
+    "image": "https://www.bloodstar.xyz/p/WedgeMcCloud/BeyondGoodAndEvil-V3/clairvoyant_beyondgoodandevilv3.png",
+    "name": "\u901a\u7075",
+    "team": "fabled",
+    "ability": "\u6b7b\u4ea1\u73a9\u5bb6\u53ef\u4ee5\u5728\u767d\u5929\u65f6\u79c1\u4e0b\u8be2\u95ee\u8bf4\u4e66\u4eba\uff0c\u6d88\u8017\u4ed6\u7684\u6295\u7968\u6807\u8bb0\u5e76\u9009\u62e9\u4e00\u540d\u73a9\u5bb6\uff1a\u4ed6\u4f1a\u5f97\u77e5\u5173\u4e8e\u90a3\u540d\u73a9\u5bb6\u7684\u4e24\u6761\u4fe1\u606f\uff0c\u5176\u4e2d\u6709\u4e14\u53ea\u6709\u4e00\u6761\u662f\u6b63\u786e\u7684\u3002",
+    "flavor": "The images I see are like a tarot card. There are always two ways it might appear, and I can show you... but that will come at a price. What are you willing to pay for a last chance at understanding?"
+  },
+  {
+    "firstNightReminder": "",
+    "otherNightReminder": "",
+    "name": "\u9e2d\u9547\u5236\u4f5c",
+    "setup": false,
+    "reminders": [
+      "\u9e2d\u9547\u5236\u4f5c"
+    ],
+    "team": "fabled",
+    "name_eng": "_meta",
+    "id": "_meta",
+    "ability": "\u9e2d\u6728\u5e03\u62c9\u592b\u949f\u697c\u5c0f\u9547\u5236\u4f5cJson\u3002\u83b7\u5f97\u66f4\u591a\u5b98\u65b9\u6df7\u5408\u677f\u5b50\u6216\u8005\u81ea\u5236\u677f\u5b50\uff0c\u53ef\u5173\u6ce8B\u7ad9\u540c\u540d\u4e13\u680f\u3002",
+    "edition": "custom",
+    "image": "https://i.postimg.cc/L6n9DwSw/image.png"
+  }
+]
