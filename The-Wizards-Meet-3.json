@@ -7,56 +7,6 @@
         "almanac": "https://bloodstar.clocktica.com/p/LemonSneeze/The-Wizards-Meet-3/almanac.html"
     },
     {
-        "id": "scribe_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8475afb5.png",
-        "otherNightReminder": "告诉抄写员今晚所有被吟诵咒语的唱名，并要求他选择其中一个。将“抄录”标记放置在施术者身上，然后向抄写员展示他所选咒语的完整文本。",
-        "reminders": [
-            "抄录"
-        ],
-        "name": "抄写员",
-        "team": "traveller",
-        "ability": "每个夜晚，你会得知一条随机被成功施放咒语的完整文本。",
-        "otherNight": 28
-    },
-    {
-        "id": "skeptic_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e847b52ef.png",
-        "otherNightReminder": "向怀疑论者展示一条今天由对立阵营玩家施放的咒语的完整文本，然后询问怀疑论者是否要取消施放它。如果是，将“取消施放”标记放置在施术者身上，并公开宣布怀疑论者取消施放了一条咒语。",
-        "reminders": [
-            "取消施放"
-        ],
-        "name": "怀疑论者",
-        "team": "traveller",
-        "ability": "你不能吟诵咒语。每个夜晚，你会得知一条由对立阵营玩家吟诵并被成功施放的咒语：你可以选择取消施放它。如果你这样做，所有玩家都会得知此事。",
-        "otherNight": 27
-    },
-    {
-        "id": "wellspring_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8c220fdc.png",
-        "reminders": [
-            "魔泉"
-        ],
-        "name": "泉涌法师",
-        "team": "traveller",
-        "ability": "你存活时，你吟诵的咒语无法被抽到。如果你死亡，你所有的咒语会被立即全部施放。"
-    },
-    {
-        "id": "partymagician_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8306a907.png",
-        "name": "宴会魔术师",
-        "team": "traveller",
-        "ability": "你吟诵的咒语不会给任一阵营带来好处。"
-    },
-    {
-        "id": "bard_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e7ed8b730.png",
-        "otherNightReminder": "将流浪诗人的歌词诠释为一条咒语（遵循所有标准咒语吟诵规则），然后以他的名义提交吟诵。",
-        "name": "流浪诗人",
-        "team": "traveller",
-        "ability": "每个夜晚，你不再吟诵咒语，而是公开吟诵一句歌词。说书人会将你的歌词诠释为一条咒语。",
-        "otherNight": 17
-    },
-    {
         "id": "paladin_thewizardsmeet3",
         "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e766d64ff.png",
         "firstNightReminder": "点头或摇头。",
@@ -65,8 +15,8 @@
         "team": "townsfolk",
         "ability": "每个夜晚，你会得知是否有邪恶玩家的咒语被抽到。",
         "flavor": "黎明终将到来。没有任何黑暗能在光明中取胜。",
-        "firstNight": 23,
-        "otherNight": 26
+        "firstNight": 6100,
+        "otherNight": 7200
     },
     {
         "id": "druid_thewizardsmeet3",
@@ -77,8 +27,8 @@
         "team": "townsfolk",
         "ability": "每个夜晚，你会得知一条被抽到的咒语里至多十个字的连续内容。",
         "flavor": "秘法并非与自然分离。事实上，它是自然最原始的形式。",
-        "firstNight": 22,
-        "otherNight": 25
+        "firstNight": 6700,
+        "otherNight": 7800
     },
     {
         "id": "thaumaturge_thewizardsmeet3",
@@ -93,8 +43,8 @@
         "team": "townsfolk",
         "ability": "每个夜晚，你会得知今晚第一条被抽到的咒语的唱名。每局游戏限一次，你可以选择让它变为“废咒”。",
         "flavor": "小心点，年轻的法师。我们可不想惹麻烦，对吧？",
-        "firstNight": 18,
-        "otherNight": 20
+        "firstNight": 4000,
+        "otherNight": 3000
     },
     {
         "id": "archmage_thewizardsmeet3",
@@ -109,8 +59,8 @@
         "team": "townsfolk",
         "ability": "每个夜晚，你可以选择将当夜的咒语施放上限提高或降低1（或不作改变）。",
         "flavor": "我研习秘法之风如何流转的古籍太久了。是时候由我来拨动它们了。",
-        "firstNight": 12,
-        "otherNight": 4
+        "firstNight": 3100,
+        "otherNight": 1500
     },
     {
         "id": "illusionist_thewizardsmeet3",
@@ -124,8 +74,8 @@
         "team": "townsfolk",
         "ability": "每个夜晚，你要选择一名玩家：说书人会改写他吟诵的咒语里的一个词。你会得知被改写的是哪个词。",
         "flavor": "什么是真实？是眼睛所见，还是双手所触？我相信，真实只是我希望你看到的东西。",
-        "firstNight": 19,
-        "otherNight": 21
+        "firstNight": 4300,
+        "otherNight": 3300
     },
     {
         "id": "abjurer_thewizardsmeet3",
@@ -139,8 +89,7 @@
         "team": "townsfolk",
         "ability": "每个夜晚，你要选择一名玩家：如果他的咒语被抽到，当夜他免受恶魔和除他自己的咒语以外的任何咒语影响。",
         "flavor": "魔法存在的意义，如果不是为了保护身边的人，又是什么呢？",
-        "firstNight": 17,
-        "otherNight": 12
+        "otherNight": 2700
     },
     {
         "id": "cryostat_thewizardsmeet3",
@@ -155,7 +104,7 @@
         "team": "townsfolk",
         "ability": "每个夜晚*，你要选择一名玩家：如果选中了爪牙，他会得知被恒霜法师选中，且他的咒语无法被抽到，直到你死亡；他今晚的咒语会被变为“废咒”。",
         "flavor": "冻结吧，罪犯！哈哈，懂了吗？因为我把他们冻住了。",
-        "otherNight": 18
+        "otherNight": 2400
     },
     {
         "id": "conjuror_thewizardsmeet3",
@@ -172,8 +121,8 @@
         "name": "化身术师",
         "team": "townsfolk",
         "ability": "每局游戏限一次，在夜晚时，你可以选择一个爪牙角色：如果该角色不在场，你获得该角色能力。如果该角色在场，你醉酒，但你吟诵的咒语正常运作。",
-        "firstNight": 13,
-        "otherNight": 6
+        "firstNight": 300,
+        "otherNight": 300
     },
     {
         "id": "enchantress_thewizardsmeet3",
@@ -187,7 +136,8 @@
         "name": "附魔师",
         "team": "townsfolk",
         "ability": "每局游戏限一次，在夜晚时，你可以选择一名玩家：如果选中了外来者，他变为一个不在场镇民角色。[+0或+1外来者]",
-        "otherNight": 24
+        "firstNight": 5500,
+        "otherNight": 6600
     },
     {
         "id": "clairvoyant_thewizardsmeet3",
@@ -201,8 +151,8 @@
         "team": "townsfolk",
         "ability": "你吟诵的与获取信息相关的咒语，被抽到的几率翻倍。",
         "flavor": "来吧，亲爱的，让我看看你未来的命运。嗯……很快，我预见你将遇见……一个恶魔！？",
-        "firstNight": 16,
-        "otherNight": 19
+        "firstNight": 7000,
+        "otherNight": 8100
     },
     {
         "id": "sorcerer_thewizardsmeet3",
@@ -210,7 +160,9 @@
         "name": "巫术师",
         "team": "townsfolk",
         "ability": "你同时可以拥有两条持续咒语。",
-        "flavor": "“哦，看看我。我花了二十年读书，就为了能放一个火球。”——某个必须学习魔法才能使用它的法师。"
+        "flavor": "“哦，看看我。我花了二十年读书，就为了能放一个火球。”——某个必须学习魔法才能使用它的法师。",
+        "firstNight": 6400,
+        "otherNight": 7500
     },
     {
         "id": "cleric_thewizardsmeet3",
@@ -248,8 +200,8 @@
         "team": "outsider",
         "ability": "每个夜晚，你吟诵的咒语必须指向并影响一名由说书人指定的特定玩家。",
         "flavor": "哎呀，抱歉。我不是故意朝你那个方向喷火的。不会再发生了，我发誓！",
-        "firstNight": 14,
-        "otherNight": 5
+        "firstNight": 5800,
+        "otherNight": 6900
     },
     {
         "id": "pyroclast_thewizardsmeet3",
@@ -264,7 +216,8 @@
         "team": "outsider",
         "ability": "每个夜晚*，1条持续咒语可能被变为“废咒”。",
         "flavor": "听我说，我施放了龙息咒语然后在图书馆睡着了，这不是我的错！",
-        "otherNight": 3
+        "firstNight": 5200,
+        "otherNight": 6000
     },
     {
         "id": "accursed_thewizardsmeet3",
@@ -288,9 +241,7 @@
         "name": "侍僧",
         "team": "outsider",
         "ability": "你以为你是一个镇民角色，但其实你不是。你的咒语可能会被说书人修改。",
-        "flavor": "我会尽力的，法师大人！",
-        "firstNight": 11,
-        "otherNight": 2
+        "flavor": "我会尽力的，法师大人！"
     },
     {
         "id": "warlock_thewizardsmeet3",
@@ -305,7 +256,7 @@
         "team": "minion",
         "ability": "每局游戏限一次，在夜晚时：你可以取消任何一条诅咒。[+1外来者]",
         "flavor": "我将是你的眼睛、你的武器、你的双脚、你迫近的厄运。只需借我一部分你的力量。",
-        "otherNight": 8
+        "otherNight": 1200
     },
     {
         "id": "necromancer_thewizardsmeet3",
@@ -333,7 +284,7 @@
         "team": "minion",
         "ability": "如果你死亡，当夜镇民的咒语无法被抽到。每个夜晚*，如果大于等于五名玩家存活，你可以选择让自己死亡。",
         "flavor": "让众神看着我屠杀他们忠实的羔羊。让他们知道我正为他们的王座而来。",
-        "otherNight": 7
+        "otherNight": 3600
     },
     {
         "id": "bloodmage_thewizardsmeet3",
@@ -346,101 +297,7 @@
         "team": "minion",
         "ability": "你吟诵禁咒可能不受惩罚。当大于等于五名玩家存活时，你死亡，当且仅当一条禁咒被成功施放。",
         "flavor": "秘法源于众多源头。可惜更多的人不愿拓宽他们的思维，去寻找可以压榨它们的所在。",
-        "otherNight": 23
-    },
-    {
-        "id": "spellcasting_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8a863ba0.png",
-        "firstNightReminder": "公开要求所有玩家吟诵咒语。当所有人都吟诵完毕，随机抽取咒语。",
-        "otherNightReminder": "公开要求所有存活玩家吟诵咒语。当所有存活玩家都吟诵完毕，随机抽取咒语。",
-        "remindersGlobal": [
-            "施放1",
-            "施放2",
-            "施放3",
-            "施放4",
-            "施放5",
-            "施放6",
-            "施放7"
-        ],
-        "name": "咒语吟诵",
-        "team": "fabled",
-        "ability": "每个夜晚，所有存活玩家可以吟诵一条咒语。咒语不能超过六十字。咒语必须以一至五个词的短语定为唱名，不能包含玩家或角色名字。唱名可以富有创意，但不能明显不诚实。所有被抽到的咒语唱名会在每天黎明时公开发布。",
-        "flavor": "挥动与轻弹。大家：挥动与轻弹。",
-        "firstNight": 15,
-        "otherNight": 9
-    },
-    {
-        "id": "spellcastingii_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8a875d26.png",
-        "firstNightReminder": "按被抽到的顺序施放咒语，即使那些玩家今晚已死亡。移除任何施放新咒语的玩家身上的“持续效果”标记。为每条被成功施放的咒语的施术者放置“施放”标记（或被否决则放置“废咒”标记）。为任何施放的咒语包含持久效果的玩家放置“持续效果”标记。",
-        "otherNightReminder": "按被抽到的顺序施放咒语，即使那些玩家今晚已死亡。移除任何施放新咒语的玩家身上的“持续效果”标记。为每条被成功施放的咒语的施术者放置“施放”标记（或被否决则放置“废咒”标记）。为任何施放的咒语包含持久效果的玩家放置“持续效果”标记。",
-        "remindersGlobal": [
-            "废咒",
-            "废咒",
-            "废咒",
-            "废咒",
-            "持续效果",
-            "持续效果",
-            "持续效果",
-            "持续效果",
-            "持续效果"
-        ],
-        "name": "咒语施放",
-        "team": "fabled",
-        "ability": "如无修改，每个夜晚至多[玩家数量的三分之一，向下取整]条咒语会被随机抽取。说书人可以将任何咒语变为“废咒”，使它没有效果且不算“被成功施放”。如果一条咒语引发持续效果，该效果会持续至施术者的另一条咒语被抽到、施术者死亡、或说书人将其变为“废咒”。",
-        "flavor": "魔法是有规则的，见鬼！",
-        "firstNight": 21,
-        "otherNight": 22
-    },
-    {
-        "id": "invokingacurse_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ada05e788ffd.png",
-        "otherNightReminder": "询问死亡玩家和祭司是否要施放诅咒。为任何诅咒今晚生效的玩家放置“已施放诅咒”标记。诅咒只有在咒语今晚被施放时才会开始生效。",
-        "remindersGlobal": [
-            "已施放诅咒",
-            "已施放诅咒",
-            "已施放诅咒",
-            "已施放诅咒",
-            "已施放诅咒",
-            "已施放诅咒"
-        ],
-        "name": "施放诅咒",
-        "team": "fabled",
-        "ability": "死亡玩家可以消耗他的投票标记来施放一条诅咒——一条具有持续效果、效果持续至游戏结束的公开咒语。说书人可以与玩家协作制定一条合适的诅咒。当只有三名玩家存活时，诅咒可能不会生效。",
-        "flavor": "复仇的亡者注视着你……等待着。",
-        "otherNight": 10
-    },
-    {
-        "id": "forbiddenspells_thewizardsmeet3",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e81a92a3e.png",
-        "firstNightReminder": "杀死任何吟诵禁咒的玩家，除非他的能力允许。",
-        "otherNightReminder": "杀死任何吟诵禁咒的玩家，除非他的能力允许。",
-        "remindersGlobal": [
-            "死亡",
-            "死亡",
-            "死亡",
-            "死亡",
-            "死亡",
-            "死亡",
-            "死亡",
-            "死亡",
-            "死亡"
-        ],
-        "name": "禁咒",
-        "team": "fabled",
-        "ability": "如果玩家吟诵的咒语包含以下任何一种效果，他会死亡，但他的咒语当晚仍然可能被施放：(1)转变阵营(2)改变或删除玩家的角色能力(3)复活。",
-        "flavor": "不要施放这些咒语",
-        "firstNight": 20,
-        "otherNight": 11
-    },
-    {
-        "name": "鸭镇制作",
-        "team": "fabled",
-        "setup": false,
-        "ability": "鸭木布拉夫钟楼小镇制作Json。获得更多官方混合剧本或者自制剧本，可关注B站同名专栏。",
-        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8300dbe8.png",
-        "id": "kduck_tcnown",
-        "flavor": "Duck_Town"
+        "otherNight": 5700
     },
     {
         "id": "elderdrake_thewizardsmeet3",
@@ -454,7 +311,7 @@
         "team": "demon",
         "ability": "每个夜晚*，你要选择一名玩家：他死亡。你每个夜晚可以吟诵至多三条咒语。咒语施放上限增加1。",
         "flavor": "我与秘法之龄一同诞生！它的黎明我在场，它的末日我也将见证！",
-        "otherNight": 13
+        "otherNight": 4500
     },
     {
         "id": "scourge_thewizardsmeet3",
@@ -468,7 +325,7 @@
         "team": "demon",
         "ability": "每个夜晚*，你要选择一名玩家：他死亡。每个夜晚*，你可以不吟诵咒语，改为选择一条昨天被成功施放的咒语（通过唱名）：施术者死亡。",
         "flavor": "我并非愚者。我深知魔法的威力。若我必须借助它来见证它的覆灭，我将毫无保留！",
-        "otherNight": 14
+        "otherNight": 4800
     },
     {
         "id": "infernus_thewizardsmeet3",
@@ -481,7 +338,7 @@
         "team": "demon",
         "ability": "每个夜晚*，你要选择一名玩家：你会得知他今晚吟诵的咒语唱名，你可以选择“重新诠释”它，基于唱名描述一个新的效果。他的咒语今晚被施放的几率翻倍。然后，他死亡，但由你的重新诠释引发的他的任何持续效果会持续至黎明。",
         "flavor": "你的心智、你的咒语、你的躯体；它们将燃烧，你的灰烬将散落在秘法之风中。",
-        "otherNight": 15
+        "otherNight": 5100
     },
     {
         "id": "theveiledone_thewizardsmeet3",
@@ -503,6 +360,154 @@
             }
         ],
         "flavor": "如同随我的剧本起舞的木偶。",
-        "otherNight": 16
+        "firstNight": 4900,
+        "otherNight": 5400
+    },
+    {
+        "id": "scribe_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8475afb5.png",
+        "otherNightReminder": "告诉抄写员今晚所有被吟诵咒语的唱名，并要求他选择其中一个。将“抄录”标记放置在施术者身上，然后向抄写员展示他所选咒语的完整文本。",
+        "reminders": [
+            "抄录"
+        ],
+        "name": "抄写员",
+        "team": "traveler",
+        "ability": "每个夜晚，你会得知一条随机被成功施放咒语的完整文本。",
+        "firstNight": 3400,
+        "otherNight": 1800
+    },
+    {
+        "id": "skeptic_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e847b52ef.png",
+        "otherNightReminder": "向怀疑论者展示一条今天由对立阵营玩家施放的咒语的完整文本，然后询问怀疑论者是否要取消施放它。如果是，将“取消施放”标记放置在施术者身上，并公开宣布怀疑论者取消施放了一条咒语。",
+        "reminders": [
+            "取消施放"
+        ],
+        "name": "怀疑论者",
+        "team": "traveler",
+        "ability": "你不能吟诵咒语。每个夜晚，你会得知一条由对立阵营玩家吟诵并被成功施放的咒语：你可以选择取消施放它。如果你这样做，所有玩家都会得知此事。",
+        "firstNight": 3700,
+        "otherNight": 2100
+    },
+    {
+        "id": "wellspring_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8c220fdc.png",
+        "reminders": [
+            "魔泉"
+        ],
+        "name": "泉涌法师",
+        "team": "traveler",
+        "ability": "你存活时，你吟诵的咒语无法被抽到。如果你死亡，你所有的咒语会被立即全部施放。",
+        "otherNight": 4200
+    },
+    {
+        "id": "partymagician_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8306a907.png",
+        "name": "宴会魔术师",
+        "team": "traveler",
+        "ability": "你吟诵的咒语不会给任一阵营带来好处。"
+    },
+    {
+        "id": "bard_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e7ed8b730.png",
+        "otherNightReminder": "将流浪诗人的歌词诠释为一条咒语（遵循所有标准咒语吟诵规则），然后以他的名义提交吟诵。",
+        "name": "流浪诗人",
+        "team": "traveler",
+        "ability": "每个夜晚，你不再吟诵咒语，而是公开吟诵一句歌词。说书人会将你的歌词诠释为一条咒语。",
+        "otherNight": 5000
+    },
+    {
+        "id": "spellcasting_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8a863ba0.png",
+        "firstNightReminder": "公开要求所有玩家吟诵咒语。当所有人都吟诵完毕，随机抽取咒语。",
+        "otherNightReminder": "公开要求所有存活玩家吟诵咒语。当所有存活玩家都吟诵完毕，随机抽取咒语。",
+        "remindersGlobal": [
+            "施放1",
+            "施放2",
+            "施放3",
+            "施放4",
+            "施放5",
+            "施放6",
+            "施放7"
+        ],
+        "name": "咒语吟诵",
+        "team": "fabled",
+        "ability": "每个夜晚，所有存活玩家可以吟诵一条咒语。咒语不能超过六十字。咒语必须以一至五个词的短语定为唱名，不能包含玩家或角色名字。唱名可以富有创意，但不能明显不诚实。所有被抽到的咒语唱名会在每天黎明时公开发布。",
+        "flavor": "挥动与轻弹。大家：挥动与轻弹。",
+        "firstNight": 600,
+        "otherNight": 600
+    },
+    {
+        "id": "spellcastingii_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8a875d26.png",
+        "firstNightReminder": "按被抽到的顺序施放咒语，即使那些玩家今晚已死亡。移除任何施放新咒语的玩家身上的“持续效果”标记。为每条被成功施放的咒语的施术者放置“施放”标记（或被否决则放置“废咒”标记）。为任何施放的咒语包含持久效果的玩家放置“持续效果”标记。",
+        "otherNightReminder": "按被抽到的顺序施放咒语，即使那些玩家今晚已死亡。移除任何施放新咒语的玩家身上的“持续效果”标记。为每条被成功施放的咒语的施术者放置“施放”标记（或被否决则放置“废咒”标记）。为任何施放的咒语包含持久效果的玩家放置“持续效果”标记。",
+        "remindersGlobal": [
+            "废咒",
+            "废咒",
+            "废咒",
+            "废咒",
+            "持续效果",
+            "持续效果",
+            "持续效果",
+            "持续效果",
+            "持续效果"
+        ],
+        "name": "咒语施放",
+        "team": "fabled",
+        "ability": "如无修改，每个夜晚至多[玩家数量的三分之一，向下取整]条咒语会被随机抽取。说书人可以将任何咒语变为“废咒”，使它没有效果且不算“被成功施放”。如果一条咒语引发持续效果，该效果会持续至施术者的另一条咒语被抽到、施术者死亡、或说书人将其变为“废咒”。",
+        "flavor": "魔法是有规则的，见鬼！",
+        "firstNight": 4600,
+        "otherNight": 3900
+    },
+    {
+        "id": "invokingacurse_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ada05e788ffd.png",
+        "otherNightReminder": "询问死亡玩家和祭司是否要施放诅咒。为任何诅咒今晚生效的玩家放置“已施放诅咒”标记。诅咒只有在咒语今晚被施放时才会开始生效。",
+        "remindersGlobal": [
+            "已施放诅咒",
+            "已施放诅咒",
+            "已施放诅咒",
+            "已施放诅咒",
+            "已施放诅咒",
+            "已施放诅咒"
+        ],
+        "name": "施放诅咒",
+        "team": "fabled",
+        "ability": "死亡玩家可以消耗他的投票标记来施放一条诅咒——一条具有持续效果、效果持续至游戏结束的公开咒语。说书人可以与玩家协作制定一条合适的诅咒。当只有三名玩家存活时，诅咒可能不会生效。",
+        "flavor": "复仇的亡者注视着你……等待着。",
+        "otherNight": 8400
+    },
+    {
+        "id": "forbiddenspells_thewizardsmeet3",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e81a92a3e.png",
+        "firstNightReminder": "杀死任何吟诵禁咒的玩家，除非他的能力允许。",
+        "otherNightReminder": "杀死任何吟诵禁咒的玩家，除非他的能力允许。",
+        "remindersGlobal": [
+            "死亡",
+            "死亡",
+            "死亡",
+            "死亡",
+            "死亡",
+            "死亡",
+            "死亡",
+            "死亡",
+            "死亡"
+        ],
+        "name": "禁咒",
+        "team": "fabled",
+        "ability": "如果玩家吟诵的咒语包含以下任何一种效果，他会死亡，但他的咒语当晚仍然可能被施放：(1)转变阵营(2)改变或删除玩家的角色能力(3)复活。",
+        "flavor": "不要施放这些咒语",
+        "firstNight": 900,
+        "otherNight": 900
+    },
+    {
+        "name": "鸭镇制作",
+        "team": "fabled",
+        "setup": false,
+        "ability": "鸭木布拉夫钟楼小镇制作Json。获得更多官方混合剧本或者自制剧本，可关注B站同名专栏。",
+        "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8300dbe8.png",
+        "id": "kduck_tcnown",
+        "flavor": "Duck_Town"
     }
 ]
