@@ -1,0 +1,469 @@
+[
+  {
+    "id": "_meta",
+    "name": "重生王国",
+    "author": "VARG",
+    "logo": "https://i.postimg.cc/KjmD9GnJ/bull.png"
+  },
+  {
+    "id": "peasant",
+    "name": "贱农",
+    "team": "townsfolk",
+    "ability": "在你的首个夜晚，你崩坏。如果与你邻近的存活玩家死亡，他会在当晚复活。",
+    "firstNight": 0,
+    "otherNight": 0,
+    "reminders": [
+      "崩坏",
+      "已复活"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/J0TZPb7z/farmer.png",
+    "firstNightReminder": "为贱农放置“崩坏”提示标记。",
+    "otherNightReminder": "与贱农邻近的存活的玩家死亡，他会复活。"
+  },
+  {
+    "id": "theologian",
+    "name": "神学家",
+    "team": "townsfolk",
+    "ability": "每个夜晚*，你可以猜测今天白天死于处决的玩家的角色。如果猜对，他复活，且可能还会有一名其他玩家复活。",
+    "firstNight": 0,
+    "otherNight": 11,
+    "reminders": [
+      "猜中",
+      "额外复活"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/rFnNJLzN/church.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "让神学家指向角色列表上的一个角色。如果该角色是今天白天死于处决的玩家的角色，那名玩家复活。可能还会有一名玩家复活。"
+  },
+  {
+    "id": "midwife",
+    "name": "助产士",
+    "team": "townsfolk",
+    "ability": "每个夜晚*，你会得知当晚复活的玩家其中之一的角色。",
+    "firstNight": 0,
+    "otherNight": 18,
+    "reminders": [
+      "已复活"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/FFPStVm9/stork-delivery.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "向助产士展示当晚复活的玩家其中之一的角色。"
+  },
+  {
+    "id": "isaac",
+    "name": "以撒",
+    "team": "townsfolk",
+    "ability": "当你首次在夜晚死亡时，你会在下个夜晚复活且变为一个不在场的善良角色。你不会因这种方式复活而崩坏。",
+    "firstNight": 0,
+    "otherNight": 0,
+    "reminders": [
+      "无崩坏",
+      "以撒"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/sx2ZQvPd/sheep.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "如果以撒首次在夜晚死亡，为他放置“明晚复活”提示标记。如果以撒死亡且带有“明晚复活”标记，他复活，并将他的角色标记替换为一个不在场的善良角色标记。向以撒展示新的角色标记。"
+  },
+  {
+    "id": "abraham",
+    "name": "亚伯拉罕",
+    "team": "townsfolk",
+    "ability": "你会得知谁是以撒。每局游戏限一次，如果你被提名且没被处决，你可以在当晚选择一名玩家：他死亡。",
+    "firstNight": 3,
+    "otherNight": 9,
+    "reminders": [
+      "以撒",
+      "已提名"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/1zx6CRSw-/king.png",
+    "firstNightReminder": "指向以撒玩家。",
+    "otherNightReminder": "如果亚伯拉罕带有“被提名”提示标记，唤醒他。他要么摇头，要么指向一名玩家：那名玩家死亡。为亚伯拉罕放置“失去能力”提示标记。"
+  },
+  {
+    "id": "milkmaid",
+    "name": "挤奶女工",
+    "team": "townsfolk",
+    "ability": "每个夜晚，如果邪恶玩家因其自身能力得知玩家角色，你会在当晚得知该角色。否则，你会得知一个在场角色。",
+    "firstNight": 0,
+    "otherNight": 20,
+    "reminders": [
+      "在场"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/RFB7FSb4/cow.png",
+    "firstNightReminder": "如果有邪恶玩家因其自身能力得知玩家角色，向挤奶女工展示此角色；否则，向挤奶女工展示一个在场角色。",
+    "otherNightReminder": "如果有邪恶玩家因其自身能力得知玩家角色，向挤奶女工展示此角色；否则，向挤奶女工展示一个在场角色。"
+  },
+  {
+    "id": "spiritualist",
+    "name": "招魂师",
+    "team": "townsfolk",
+    "ability": "在夜晚时*，你可以让自己崩坏并选择一名玩家：你会得知他的阵营，然后你死亡。如果你崩坏，你不会在夜晚因自身能力而被唤醒。",
+    "firstNight": 4,
+    "otherNight": 10,
+    "reminders": [
+      "崩坏",
+      "已得知"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/3r9X8HjQ/fire-silhouette.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "招魂师要么摇头，要么点头并指向一名玩家。为他放置“崩坏”提示标记，向他展示那名玩家的阵营手势（拇指向上或向下）。为招魂师放置“死亡”提示标记。"
+  },
+  {
+    "id": "mourner",
+    "name": "哀悼者",
+    "team": "townsfolk",
+    "ability": "在夜晚时*，你可以让自己崩坏并选择一名玩家：他复活。如果你崩坏，你不会在夜晚因自身能力而被唤醒。",
+    "firstNight": 0,
+    "otherNight": 14,
+    "reminders": [
+      "崩坏"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/0j57Yts4/despair.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "哀悼者要么摇头，要么点头并指向一名玩家，为他放置“崩坏”提示标记，为那名玩家放置“复活”提示标记。"
+  },
+  {
+    "id": "icecreamman",
+    "name": "冰淇淋人",
+    "team": "townsfolk",
+    "ability": "每局游戏限一次，你可以在夜晚时选择除你以外的三名玩家：你会得知他们之中数量最多的角色类型的数量。[+1外来者]",
+    "firstNight": 5,
+    "otherNight": 13,
+    "reminders": [
+      "崩坏"
+    ],
+    "setup": true,
+    "image": "https://i.postimg.cc/4NdznFw7/ice-cream-cone.png",
+    "firstNightReminder": "冰淇淋人要么摇头，要么点头并指向除他以外的三名玩家。向冰淇淋人展示他们之中数量最多的角色类型的数量(1,2,3)。",
+    "otherNightReminder": "冰淇淋人要么摇头，要么点头并指向除他以外的三名玩家。向冰淇淋人展示他们之中数量最多的角色类型的数量(1,2,3)。"
+  },
+  {
+    "id": "apostate",
+    "name": "叛教者",
+    "team": "townsfolk",
+    "ability": "每个夜晚*，你要选择一名玩家：他失去崩坏。当你死亡时，会有一名玩家获得崩坏。",
+    "firstNight": 0,
+    "otherNight": 2,
+    "reminders": [
+      "崩坏"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/sXmhgph4/prayer-beads.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "叛教者指向一名玩家，移除那名玩家的“崩坏”提示标记。如果叛教者死亡，为一名玩家放置“崩坏”提示标记。"
+  },
+  {
+    "id": "cheesemaker",
+    "name": "奶酪师傅",
+    "team": "townsfolk",
+    "ability": "在你的首个夜晚，你会得知一名镇民玩家和他的角色，他醉酒。每个夜晚*，你要选择一名玩家：如果他属于邪恶阵营，因你醉酒的玩家恢复清醒。",
+    "firstNight": 0,
+    "otherNight": 8,
+    "reminders": [
+      "醉酒",
+      "选中邪恶玩家"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/52XqKkCd/cheese-wedge.png",
+    "firstNightReminder": "指向一名镇民玩家，并向奶酪师傅展示那名玩家的角色标记。为那名玩家放置“醉酒”提示标记。",
+    "otherNightReminder": "奶酪师傅指向一名玩家。如果那名玩家属于邪恶阵营，移除“醉酒”提示标记。"
+  },
+  {
+    "id": "rancher",
+    "name": "牧场工人",
+    "team": "townsfolk",
+    "ability": "每局游戏限一次，使用其自身能力选择了你的邪恶玩家会醉酒直到下个黄昏，且你会得知他的角色，即使你已死亡。",
+    "firstNight": 0,
+    "otherNight": 0,
+    "reminders": [
+      "死亡后发动",
+      "醉酒",
+      "已得知"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/cLtwBgpd/lasso.png",
+    "firstNightReminder": "如果牧场工人没有“失去能力”提示标记，为选择了牧场工人的邪恶玩家放置“醉酒”提示标记。向牧场工人展示这名玩家的角色标记。",
+    "otherNightReminder": "如果牧场工人没有“失去能力”提示标记，为选择了牧场工人的邪恶玩家放置“醉酒”提示标记。向牧场工人展示这名玩家的角色标记。"
+  },
+  {
+    "id": "jester",
+    "name": "滑稽演员",
+    "team": "townsfolk",
+    "ability": "当你在夜晚死亡时，所有邪恶玩家醉酒直到下个黄昏，且你会在下个夜晚复活。",
+    "firstNight": 0,
+    "otherNight": 0,
+    "reminders": [
+      "醉酒",
+      "已自我复活"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/SQt2vj8N/jester-hat.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "如果滑稽演员在夜晚死亡，放置“邪恶醉酒”提示标记，并为滑稽演员放置“明晚复活”提示标记。如果滑稽演员死亡且带有“明晚复活”提示标记，他复活。"
+  },
+  {
+    "id": "bargainer",
+    "name": "砍价高手",
+    "team": "outsider",
+    "ability": "如果你死于处决，你会在当晚复活，且会有一名玩家崩坏和醉酒。",
+    "firstNight": 0,
+    "otherNight": 17,
+    "reminders": [
+      "崩坏",
+      "醉酒"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/ydmTXgSD/body-sw-apping.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "如果砍价高手死亡且带有“当晚复活”提示标记，他复活，然后为一名玩家放置“崩坏”和“醉酒”提示标记。"
+  },
+  {
+    "id": "tormentedsoul",
+    "name": "受折磨的灵魂",
+    "team": "outsider",
+    "ability": "如果你在夜晚死亡，会有一名当晚即将复活的镇民不能复活。你可以在崩坏状态下复活，即使你已死亡。",
+    "firstNight": 0,
+    "otherNight": 26,
+    "reminders": [
+      "阻止复活",
+      "无视崩坏"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/Vv4Bpxg1/bottled-shadow.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "如果受折磨的灵魂在夜晚死亡，为一名今晚即将复活的镇民放置“无法复活”提示标记。"
+  },
+  {
+    "id": "convert",
+    "name": "改信者",
+    "team": "outsider",
+    "ability": "在你的首个夜晚，你会得知一名玩家。当你得知的玩家死亡时，当晚你会变为邪恶，且你与恶魔互认，且你会被当作爪牙。",
+    "firstNight": 2,
+    "otherNight": 1,
+    "reminders": [
+      "已改信",
+      "是邪恶"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/vm97bgh0/cherish.png",
+    "firstNightReminder": "指向一名玩家。",
+    "otherNightReminder": "如果带有“得知”提示标记的玩家死亡，唤醒改信者，向他展示拇指向下表示邪恶的手势，并指向恶魔玩家。唤醒恶魔，指向改信者。为改信者放置“当作爪牙”提示标记。"
+  },
+  {
+    "id": "infirm",
+    "name": "衰败者",
+    "team": "outsider",
+    "ability": "在你的首个夜晚，你崩坏。如果与你邻近的玩家崩坏，你可能会死亡。当你死亡时，会有一名其他玩家崩坏。",
+    "firstNight": 0,
+    "otherNight": 19,
+    "reminders": [
+      "崩坏"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/d08CzMQX/internal-injury.png",
+    "firstNightReminder": "为衰败者放置“崩坏”提示标记",
+    "otherNightReminder": "如果与衰败者邻近的玩家崩坏，可以为衰败者放置“死亡”提示标记。当衰败者死亡时，为一名玩家放置“崩坏”提示标记。"
+  },
+  {
+    "id": "minotaur",
+    "name": "牛头人",
+    "team": "minion",
+    "ability": "在夜晚时*，你可以选择一名玩家：他死亡，且你也会死亡。恶魔以其自身能力选择你时，其负面能力对你无效且改为你复活。",
+    "firstNight": 0,
+    "otherNight": 3,
+    "reminders": [
+      "击杀"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/pTRjv0pd/minotaur.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "牛头人要么摇头，要么指向一名玩家，那名玩家死亡，牛头人死亡。恶魔以其自身能力选择牛头人，改为牛头人复活。"
+  },
+  {
+    "id": "darkpriest",
+    "name": "黑暗牧师",
+    "team": "minion",
+    "ability": "每个夜晚*，你会得知所有死亡的玩家。然后你可以选择一名死亡的玩家：他复活，且你会得知他的角色，且他中毒。",
+    "firstNight": 0,
+    "otherNight": 12,
+    "reminders": [
+      "已死亡",
+      "中毒"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/d1j8Zbzd/cultist.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "指向所有死亡的玩家。黑暗牧师指向一名死亡的玩家。向黑暗牧师展示那名玩家的角色标记。那名玩家复活，为他放置“中毒”提示标记。"
+  },
+  {
+    "id": "sacrifice",
+    "name": "献祭者",
+    "team": "minion",
+    "ability": "当恶魔首次死亡时，游戏不会结束。在恶魔死亡的下个夜晚，恶魔会复活，然后你死亡。[+1外来者]",
+    "firstNight": 0,
+    "otherNight": 0,
+    "reminders": [
+      "已献祭"
+    ],
+    "setup": true,
+    "image": "https://i.postimg.cc/TY4nbqHk/imprisoned.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "当恶魔首次死亡时，在魔典中央放置“首次死亡”提示标记。为献祭者放置“献祭”提示标记"
+  },
+  {
+    "id": "sycophant",
+    "name": "谄媚者",
+    "team": "minion",
+    "ability": "每个夜晚*，你会得知即将复活的玩家。你可以选择其中一名玩家：他不能复活，且你会得知他的角色。[-1外来者]",
+    "firstNight": 0,
+    "otherNight": 15,
+    "reminders": [
+      "已取消"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/MHrfyqtc/shadow-follower.png",
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "churningbelly",
+    "name": "翻涌之腔",
+    "team": "demon",
+    "ability": "每个夜晚*，你要选择一名玩家：他死亡。因你的能力而死亡的爪牙会当晚复活，且你会得知一个不在场的善良角色，此爪牙会被当作此善良角色。",
+    "firstNight": 0,
+    "otherNight": 6,
+    "reminders": [
+      "死亡",
+      "牛头人",
+      "黑暗牧师",
+      "已献祭",
+      "谄媚者",
+      "复活"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/6pFVkLr7/charging-bull.png",
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "burningeyes",
+    "name": "灼烧之眼",
+    "team": "demon",
+    "ability": "每个夜晚*，你要选择一名玩家：他死亡。你会得知所有崩坏的玩家。你可以选择一名崩坏的玩家和一名没有崩坏的玩家，且令崩坏状态转移至没有崩坏的玩家。所有崩坏的存活的玩家中毒。",
+    "firstNight": 0,
+    "otherNight": 5,
+    "reminders": [
+      "死亡",
+      "中毒"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/jddhPjqj/burning-eye.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "让灼烧之眼指向一名玩家，那名玩家死亡。指向所有崩坏的玩家，然后让灼烧之眼选择两名玩家，将崩坏玩家的“崩坏”提示标记转移到没有崩坏的玩家上。为所有崩坏玩家放置“中毒”提示标记。"
+  },
+  {
+    "id": "blackcloud",
+    "name": "浓黑之云",
+    "team": "demon",
+    "ability": "在你的首个夜晚，会有一名镇民中毒。每个夜晚，你可以选择一名玩家：他崩坏。当你首次死亡后，你仍存活，但会被当作死亡。你无法从假死状态复活。[-1外来者]",
+    "firstNight": 6,
+    "otherNight": 4,
+    "reminders": [
+      "死亡",
+      "中毒"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/wxX7nBZH/twirl-center.png",
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "glorioushorn",
+    "name": "荣耀之角",
+    "team": "demon",
+    "ability": "每个夜晚*，你要选择一名玩家：他死亡。如果你选中一名崩坏玩家，当晚你最多可以再选择一名玩家：他死亡。",
+    "firstNight": 0,
+    "otherNight": 7,
+    "reminders": [
+      "死亡"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/SQGrn9h5/bull-horns.png",
+    "firstNightReminder": "",
+    "otherNightReminder": "荣耀之角指向一名玩家，那名玩家死亡。如果那名玩家带有“崩坏”提示标记，荣耀之角可以再选择一名玩家。"
+  },
+  {
+    "id": "gatekeeper",
+    "name": "看门人",
+    "team": "traveler",
+    "ability": "你可以在白天时私下询问说书人。",
+    "firstNight": 0,
+    "otherNight": 0,
+    "reminders": [
+      "看门人"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/k52ypMBy/gate.png",
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "Jury",
+    "name": "陪审团",
+    "team": "traveler",
+    "ability": "每个夜晚，你可以选择两名玩家：如果他们之中有且只有一名玩家崩坏，他们失去崩坏。否则，会有一名存活的玩家崩坏。",
+    "firstNight": 1,
+    "otherNight": 1,
+    "reminders": [
+      "崩坏"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/wBnk8KNY/life-in-the-balance.png",
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "Dark God Khalazir",
+    "name": "暗黑之神喀拉扎尔",
+    "team": "fabled",
+    "ability": "复活的玩家获得“崩坏”。只有说书人会得知这个状态。在白天时，如果所有善良玩家都死亡或崩坏，邪恶阵营获胜。已经崩坏的玩家不会再次崩坏。崩坏的玩家无法复活。",
+    "remindersGlobal": [
+      "崩坏"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/KjmD9GnJ/bull.png",
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "Ressurection",
+    "name": "复活",
+    "team": "fabled",
+    "ability": "这个角色不可用！遵循以下顺序进行复活：砍价高手、献祭者、翻涌之腔、牛头人、黑暗牧师、以撒、哀悼者、神学家、贱农。",
+    "otherNight": 16,
+    "remindersGlobal": [
+      "已复活"
+    ],
+    "setup": false,
+    "image": "https://i.postimg.cc/9Fr7cwFy/yin-yang.png",
+    "firstNightReminder": "",
+    "otherNightReminder": ""
+  },
+  {
+    "id": "kduck_tcnown",
+    "name": "鸭镇制作",
+    "team": "fabled",
+    "ability": "鸭木布拉夫钟楼小镇制作Json。获得更多官方混合板子或者自制板子，可关注B站同名专栏。",
+    "flavor": "Duck_Town",
+    "setup": false,
+    "image": "https://free.picui.cn/free/20077/2026/10/22/6ad9e8300dbe8.png"
+  }
+]
